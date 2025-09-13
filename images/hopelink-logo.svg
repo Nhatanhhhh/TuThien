@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48" height="48" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+    <!-- Background circle -->
+    <circle cx="24" cy="24" r="24" fill="#7c3aed"/>
+    
+    <!-- Heart shape -->
+    <path d="M24 36C24 36 16 28 16 20C16 14 20 10 24 10C28 10 32 14 32 20C32 28 24 36 24 36Z" 
+          fill="white"/>
+    
+    <!-- Letter H -->
+    <text x="24" y="28" 
+          font-family="Arial" 
+          font-size="24" 
+          font-weight="bold" 
+          fill="#7c3aed" 
+          text-anchor="middle">H</text>
+</svg> 

@@ -1,0 +1,764 @@
+[18-May-2025 15:12:24 UTC] Database connection successful at 2025-05-18 15:12:24
+[18-May-2025 15:12:25 UTC] Database connection successful at 2025-05-18 15:12:25
+[18-May-2025 15:12:25 UTC] Database connection successful at 2025-05-18 15:12:25
+[18-May-2025 15:12:25 UTC] Database connection successful at 2025-05-18 15:12:25
+[18-May-2025 15:12:25 UTC] Connecting to database...
+[18-May-2025 15:12:25 UTC] Fetched participants count: 1
+[18-May-2025 15:12:25 UTC] Sample participant data: {"id":25,"ticket_id":41,"user_id":8,"trip_id":6,"name":"nhatanh8i","email":"nguyennhatanhnnacm@gmail.com","phone":"0813052062","message":null,"created_at":"2025-05-18 15:30:48","username":"nhatanh8i","fullname":"Nguy\u1ec5n Nh\u1eadt Anh","trip_name":"Th\u0103m em nh\u1ecf v\u00f9ng cao\t","is_cancelled":0,"refund_status":null}
+[18-May-2025 15:12:25 UTC] === END get_participants.php ===
+[18-May-2025 15:12:27 UTC] Database connection successful at 2025-05-18 15:12:27
+[18-May-2025 15:12:29 UTC] Database connection successful at 2025-05-18 15:12:29
+[18-May-2025 15:12:30 UTC] Database connection successful at 2025-05-18 15:12:30
+[18-May-2025 15:12:30 UTC] Connecting to database...
+[18-May-2025 15:12:30 UTC] Fetched participants count: 1
+[18-May-2025 15:12:30 UTC] Sample participant data: {"id":25,"ticket_id":41,"user_id":8,"trip_id":6,"name":"nhatanh8i","email":"nguyennhatanhnnacm@gmail.com","phone":"0813052062","message":null,"created_at":"2025-05-18 15:30:48","username":"nhatanh8i","fullname":"Nguy\u1ec5n Nh\u1eadt Anh","trip_name":"Th\u0103m em nh\u1ecf v\u00f9ng cao\t","is_cancelled":0,"refund_status":null}
+[18-May-2025 15:12:30 UTC] === END get_participants.php ===
+[18-May-2025 15:12:30 UTC] Database connection successful at 2025-05-18 15:12:30
+[18-May-2025 15:12:30 UTC] Database connection successful at 2025-05-18 15:12:30
+[18-May-2025 15:12:31 UTC] Database connection successful at 2025-05-18 15:12:31
+[18-May-2025 15:12:32 UTC] Database connection successful at 2025-05-18 15:12:32
+[18-May-2025 15:12:32 UTC] Connecting to database...
+[18-May-2025 15:12:32 UTC] Fetched participants count: 1
+[18-May-2025 15:12:32 UTC] Sample participant data: {"id":25,"ticket_id":41,"user_id":8,"trip_id":6,"name":"nhatanh8i","email":"nguyennhatanhnnacm@gmail.com","phone":"0813052062","message":null,"created_at":"2025-05-18 15:30:48","username":"nhatanh8i","fullname":"Nguy\u1ec5n Nh\u1eadt Anh","trip_name":"Th\u0103m em nh\u1ecf v\u00f9ng cao\t","is_cancelled":0,"refund_status":null}
+[18-May-2025 15:12:32 UTC] === END get_participants.php ===
+[18-May-2025 15:12:32 UTC] Database connection successful at 2025-05-18 15:12:32
+[18-May-2025 15:12:32 UTC] Database connection successful at 2025-05-18 15:12:32
+[18-May-2025 15:28:29 UTC] Database connection successful at 2025-05-18 15:28:29
+[18-May-2025 15:29:15 UTC] Database connection successful at 2025-05-18 15:29:15
+[18-May-2025 15:29:16 UTC] Database connection successful at 2025-05-18 15:29:16
+[18-May-2025 15:29:16 UTC] Database connection successful at 2025-05-18 15:29:16
+[18-May-2025 15:29:16 UTC] Database connection successful at 2025-05-18 15:29:16
+[18-May-2025 15:29:16 UTC] Connecting to database...
+[18-May-2025 15:29:16 UTC] Fetched participants count: 5
+[18-May-2025 15:29:16 UTC] Sample participant data: {"id":29,"ticket_id":45,"user_id":8,"trip_id":8,"name":"nhatanh8i","email":"nguyennhatanhnnacm@gmail.com","phone":"0813052062","message":null,"created_at":"2025-05-18 22:16:23","username":"nhatanh8i","fullname":"Nguy\u1ec5n Nh\u1eadt Anh","trip_name":"L\u00e0nh t\u00ecnh th\u01b0\u01a1ng","is_cancelled":0,"refund_status":null}
+[18-May-2025 15:29:16 UTC] === END get_participants.php ===
+[18-May-2025 15:29:18 UTC] Database connection successful at 2025-05-18 15:29:18
+[18-May-2025 15:29:20 UTC] Database connection successful at 2025-05-18 15:29:20
+[18-May-2025 15:29:20 UTC] Database connection successful at 2025-05-18 15:29:20
+[18-May-2025 15:29:20 UTC] Database connection successful at 2025-05-18 15:29:20
+[18-May-2025 15:29:20 UTC] Connecting to database...
+[18-May-2025 15:29:20 UTC] Fetched participants count: 5
+[18-May-2025 15:29:20 UTC] Sample participant data: {"id":29,"ticket_id":45,"user_id":8,"trip_id":8,"name":"nhatanh8i","email":"nguyennhatanhnnacm@gmail.com","phone":"0813052062","message":null,"created_at":"2025-05-18 22:16:23","username":"nhatanh8i","fullname":"Nguy\u1ec5n Nh\u1eadt Anh","trip_name":"L\u00e0nh t\u00ecnh th\u01b0\u01a1ng","is_cancelled":0,"refund_status":null}
+[18-May-2025 15:29:20 UTC] === END get_participants.php ===
+[18-May-2025 15:29:24 UTC] Database connection successful at 2025-05-18 15:29:24
+[18-May-2025 15:29:24 UTC] Fetching participant with ID: 29
+[18-May-2025 15:29:24 UTC] Participant found: {"id":29,"ticket_id":45,"user_id":8,"trip_id":8,"name":"nhatanh8i","email":"nguyennhatanhnnacm@gmail.com","phone":"0813052062","message":null,"created_at":"2025-05-18 22:16:23","username":"nhatanh8i","fullname":"Nguy\u1ec5n Nh\u1eadt Anh","trip_name":"L\u00e0nh t\u00ecnh th\u01b0\u01a1ng","is_cancelled":0,"refund_status":null}
+[18-May-2025 15:29:24 UTC] === END get_participant.php ===
+[18-May-2025 15:29:30 UTC] Database connection successful at 2025-05-18 15:29:30
+[18-May-2025 15:29:33 UTC] Database connection successful at 2025-05-18 15:29:33
+[18-May-2025 15:29:36 UTC] Database connection successful at 2025-05-18 15:29:36
+[18-May-2025 15:29:40 UTC] Database connection successful at 2025-05-18 15:29:40
+[18-May-2025 15:31:20 UTC] Database connection successful at 2025-05-18 15:31:20
+[18-May-2025 15:31:44 UTC] Database connection successful at 2025-05-18 15:31:44
+[18-May-2025 15:31:45 UTC] Database connection successful at 2025-05-18 15:31:45
+[18-May-2025 15:31:46 UTC] Database connection successful at 2025-05-18 15:31:46
+[18-May-2025 15:31:49 UTC] Database connection successful at 2025-05-18 15:31:49
+[18-May-2025 15:31:50 UTC] Database connection successful at 2025-05-18 15:31:50
+[18-May-2025 15:34:20 UTC] Database connection successful at 2025-05-18 15:34:20
+[18-May-2025 15:35:19 UTC] Database connection successful at 2025-05-18 15:35:19
+[18-May-2025 15:35:25 UTC] Database connection successful at 2025-05-18 15:35:25
+[18-May-2025 15:36:09 UTC] Database connection successful at 2025-05-18 15:36:09
+[18-May-2025 15:36:12 UTC] Database connection successful at 2025-05-18 15:36:12
+[18-May-2025 15:36:50 UTC] Database connection successful at 2025-05-18 15:36:50
+[18-May-2025 15:37:01 UTC] Database connection successful at 2025-05-18 15:37:01
+[18-May-2025 15:40:09 UTC] Database connection successful at 2025-05-18 15:40:09
+[18-May-2025 15:40:13 UTC] Database connection successful at 2025-05-18 15:40:13
+[18-May-2025 15:40:17 UTC] Database connection successful at 2025-05-18 15:40:17
+[18-May-2025 15:40:18 UTC] Database connection successful at 2025-05-18 15:40:18
+[18-May-2025 15:40:18 UTC] Database connection successful at 2025-05-18 15:40:18
+[18-May-2025 15:40:18 UTC] Database connection successful at 2025-05-18 15:40:18
+[18-May-2025 15:40:18 UTC] Connecting to database...
+[18-May-2025 15:40:18 UTC] Fetched participants count: 5
+[18-May-2025 15:40:18 UTC] Sample participant data: {"id":29,"ticket_id":45,"user_id":8,"trip_id":8,"name":"nhatanh8i","email":"nguyennhatanhnnacm@gmail.com","phone":"0813052062","message":null,"created_at":"2025-05-18 22:16:23","username":"nhatanh8i","fullname":"Nguy\u1ec5n Nh\u1eadt Anh","trip_name":"L\u00e0nh t\u00ecnh th\u01b0\u01a1ng","is_cancelled":0,"refund_status":null}
+[18-May-2025 15:40:18 UTC] === END get_participants.php ===
+[18-May-2025 15:40:20 UTC] Database connection successful at 2025-05-18 15:40:20
+[18-May-2025 15:40:21 UTC] Database connection successful at 2025-05-18 15:40:21
+[18-May-2025 15:42:10 UTC] Database connection successful at 2025-05-18 15:42:10
+[18-May-2025 15:43:54 UTC] Database connection successful at 2025-05-18 15:43:54
+[18-May-2025 15:44:07 UTC] Database connection successful at 2025-05-18 15:44:07
+[18-May-2025 15:44:23 UTC] Database connection successful at 2025-05-18 15:44:23
+[18-May-2025 15:45:34 UTC] Database connection successful at 2025-05-18 15:45:34
+[18-May-2025 15:45:48 UTC] Database connection successful at 2025-05-18 15:45:48
+[18-May-2025 15:46:06 UTC] Database connection successful at 2025-05-18 15:46:06
+[18-May-2025 15:46:15 UTC] Database connection successful at 2025-05-18 15:46:15
+[18-May-2025 15:47:54 UTC] Database connection successful at 2025-05-18 15:47:54
+[18-May-2025 15:52:53 UTC] Database connection successful at 2025-05-18 15:52:53
+[18-May-2025 16:15:13 UTC] Database connection successful at 2025-05-18 16:15:13
+[18-May-2025 16:15:17 UTC] Database connection successful at 2025-05-18 16:15:17
+[18-May-2025 16:15:23 UTC] Database connection successful at 2025-05-18 16:15:23
+[18-May-2025 16:15:26 UTC] Database connection successful at 2025-05-18 16:15:26
+[18-May-2025 16:17:00 UTC] Database connection successful at 2025-05-18 16:17:00
+[18-May-2025 16:17:04 UTC] Database connection successful at 2025-05-18 16:17:04
+[18-May-2025 16:17:07 UTC] Database connection successful at 2025-05-18 16:17:07
+[18-May-2025 16:17:10 UTC] Database connection successful at 2025-05-18 16:17:10
+[18-May-2025 16:21:05 UTC] Database connection successful at 2025-05-18 16:21:05
+[18-May-2025 16:21:05 UTC] Database connection successful at 2025-05-18 16:21:05
+[18-May-2025 16:21:07 UTC] Database connection successful at 2025-05-18 16:21:07
+[18-May-2025 16:21:11 UTC] Database connection successful at 2025-05-18 16:21:11
+[18-May-2025 16:21:13 UTC] Database connection successful at 2025-05-18 16:21:13
+[18-May-2025 16:21:15 UTC] Database connection successful at 2025-05-18 16:21:15
+[18-May-2025 16:21:18 UTC] Database connection successful at 2025-05-18 16:21:18
+[18-May-2025 16:21:22 UTC] Database connection successful at 2025-05-18 16:21:22
+[18-May-2025 16:21:24 UTC] Database connection successful at 2025-05-18 16:21:24
+[18-May-2025 16:21:32 UTC] Database connection successful at 2025-05-18 16:21:32
+[18-May-2025 16:21:35 UTC] Database connection successful at 2025-05-18 16:21:35
+[18-May-2025 16:21:38 UTC] Database connection successful at 2025-05-18 16:21:38
+[18-May-2025 16:21:44 UTC] Database connection successful at 2025-05-18 16:21:44
+[18-May-2025 16:21:47 UTC] Database connection successful at 2025-05-18 16:21:47
+[18-May-2025 16:21:49 UTC] Database connection successful at 2025-05-18 16:21:49
+[18-May-2025 16:25:47 UTC] Database connection successful at 2025-05-18 16:25:47
+[18-May-2025 16:25:47 UTC] Database connection successful at 2025-05-18 16:25:47
+[18-May-2025 16:25:48 UTC] Database connection successful at 2025-05-18 16:25:48
+[18-May-2025 16:25:48 UTC] Database connection successful at 2025-05-18 16:25:48
+[18-May-2025 16:25:50 UTC] Database connection successful at 2025-05-18 16:25:50
+[18-May-2025 16:25:55 UTC] Database connection successful at 2025-05-18 16:25:55
+[18-May-2025 16:25:58 UTC] Database connection successful at 2025-05-18 16:25:58
+[18-May-2025 16:26:00 UTC] Database connection successful at 2025-05-18 16:26:00
+[18-May-2025 16:26:02 UTC] Database connection successful at 2025-05-18 16:26:02
+[18-May-2025 16:26:03 UTC] Database connection successful at 2025-05-18 16:26:03
+[18-May-2025 16:26:03 UTC] Database connection successful at 2025-05-18 16:26:03
+[18-May-2025 16:26:03 UTC] Database connection successful at 2025-05-18 16:26:03
+[18-May-2025 16:26:03 UTC] Connecting to database...
+[18-May-2025 16:26:03 UTC] Fetched participants count: 5
+[18-May-2025 16:26:03 UTC] Sample participant data: {"id":29,"ticket_id":45,"user_id":8,"trip_id":8,"name":"nhatanh8i","email":"nguyennhatanhnnacm@gmail.com","phone":"0813052062","message":null,"created_at":"2025-05-18 22:16:23","username":"nhatanh8i","fullname":"Nguy\u1ec5n Nh\u1eadt Anh","trip_name":"L\u00e0nh t\u00ecnh th\u01b0\u01a1ng","is_cancelled":0,"refund_status":null}
+[18-May-2025 16:26:03 UTC] === END get_participants.php ===
+[18-May-2025 16:26:23 UTC] Database connection successful at 2025-05-18 16:26:23
+[18-May-2025 16:26:23 UTC] Database connection successful at 2025-05-18 16:26:23
+[18-May-2025 16:26:24 UTC] Database connection successful at 2025-05-18 16:26:24
+[18-May-2025 16:26:24 UTC] Database connection successful at 2025-05-18 16:26:24
+[18-May-2025 16:26:24 UTC] Database connection successful at 2025-05-18 16:26:24
+[18-May-2025 16:26:24 UTC] Connecting to database...
+[18-May-2025 16:26:24 UTC] Fetched participants count: 5
+[18-May-2025 16:26:24 UTC] Sample participant data: {"id":29,"ticket_id":45,"user_id":8,"trip_id":8,"name":"nhatanh8i","email":"nguyennhatanhnnacm@gmail.com","phone":"0813052062","message":null,"created_at":"2025-05-18 22:16:23","username":"nhatanh8i","fullname":"Nguy\u1ec5n Nh\u1eadt Anh","trip_name":"L\u00e0nh t\u00ecnh th\u01b0\u01a1ng","is_cancelled":0,"refund_status":null}
+[18-May-2025 16:26:24 UTC] === END get_participants.php ===
+[18-May-2025 16:26:25 UTC] Database connection successful at 2025-05-18 16:26:25
+[18-May-2025 16:45:11 UTC] Database connection successful at 2025-05-18 16:45:11
+[18-May-2025 16:45:11 UTC] Database connection successful at 2025-05-18 16:45:11
+[18-May-2025 16:45:17 UTC] Database connection successful at 2025-05-18 16:45:17
+[18-May-2025 16:45:18 UTC] Database connection successful at 2025-05-18 16:45:18
+[18-May-2025 16:45:18 UTC] Database connection successful at 2025-05-18 16:45:18
+[18-May-2025 16:45:18 UTC] Database connection successful at 2025-05-18 16:45:18
+[18-May-2025 16:45:18 UTC] Connecting to database...
+[18-May-2025 16:45:18 UTC] Fetched participants count: 5
+[18-May-2025 16:45:18 UTC] Sample participant data: {"id":29,"ticket_id":45,"user_id":8,"trip_id":8,"name":"nhatanh8i","email":"nguyennhatanhnnacm@gmail.com","phone":"0813052062","message":null,"created_at":"2025-05-18 22:16:23","username":"nhatanh8i","fullname":"Nguy\u1ec5n Nh\u1eadt Anh","trip_name":"L\u00e0nh t\u00ecnh th\u01b0\u01a1ng","is_cancelled":0,"refund_status":null}
+[18-May-2025 16:45:18 UTC] === END get_participants.php ===
+[18-May-2025 16:45:19 UTC] Database connection successful at 2025-05-18 16:45:19
+[18-May-2025 16:45:20 UTC] Database connection successful at 2025-05-18 16:45:20
+[18-May-2025 16:45:20 UTC] Database connection successful at 2025-05-18 16:45:20
+[18-May-2025 16:45:21 UTC] Database connection successful at 2025-05-18 16:45:21
+[18-May-2025 16:45:23 UTC] Database connection successful at 2025-05-18 16:45:23
+[18-May-2025 16:45:23 UTC] Database connection successful at 2025-05-18 16:45:23
+[18-May-2025 16:45:23 UTC] Database connection successful at 2025-05-18 16:45:23
+[18-May-2025 16:45:23 UTC] Connecting to database...
+[18-May-2025 16:45:23 UTC] Fetched participants count: 5
+[18-May-2025 16:45:23 UTC] Sample participant data: {"id":29,"ticket_id":45,"user_id":8,"trip_id":8,"name":"nhatanh8i","email":"nguyennhatanhnnacm@gmail.com","phone":"0813052062","message":null,"created_at":"2025-05-18 22:16:23","username":"nhatanh8i","fullname":"Nguy\u1ec5n Nh\u1eadt Anh","trip_name":"L\u00e0nh t\u00ecnh th\u01b0\u01a1ng","is_cancelled":0,"refund_status":null}
+[18-May-2025 16:45:23 UTC] === END get_participants.php ===
+[18-May-2025 16:45:46 UTC] Database connection successful at 2025-05-18 16:45:46
+[18-May-2025 16:45:46 UTC] Database connection successful at 2025-05-18 16:45:46
+[18-May-2025 16:46:28 UTC] Database connection successful at 2025-05-18 16:46:28
+[18-May-2025 16:46:30 UTC] Database connection successful at 2025-05-18 16:46:30
+[18-May-2025 16:46:32 UTC] Database connection successful at 2025-05-18 16:46:32
+[18-May-2025 16:46:33 UTC] Database connection successful at 2025-05-18 16:46:33
+[18-May-2025 16:46:33 UTC] Database connection successful at 2025-05-18 16:46:33
+[18-May-2025 16:46:33 UTC] Database connection successful at 2025-05-18 16:46:33
+[18-May-2025 16:46:33 UTC] Connecting to database...
+[18-May-2025 16:46:33 UTC] Fetched participants count: 5
+[18-May-2025 16:46:33 UTC] Sample participant data: {"id":29,"ticket_id":45,"user_id":8,"trip_id":8,"name":"nhatanh8i","email":"nguyennhatanhnnacm@gmail.com","phone":"0813052062","message":null,"created_at":"2025-05-18 22:16:23","username":"nhatanh8i","fullname":"Nguy\u1ec5n Nh\u1eadt Anh","trip_name":"L\u00e0nh t\u00ecnh th\u01b0\u01a1ng","is_cancelled":0,"refund_status":null}
+[18-May-2025 16:46:33 UTC] === END get_participants.php ===
+[18-May-2025 16:46:34 UTC] Database connection successful at 2025-05-18 16:46:34
+[18-May-2025 16:46:36 UTC] Database connection successful at 2025-05-18 16:46:36
+[18-May-2025 16:46:36 UTC] Database connection successful at 2025-05-18 16:46:36
+[18-May-2025 16:46:38 UTC] Database connection successful at 2025-05-18 16:46:38
+[18-May-2025 16:46:39 UTC] Database connection successful at 2025-05-18 16:46:39
+[18-May-2025 16:46:39 UTC] Database connection successful at 2025-05-18 16:46:39
+[18-May-2025 16:46:39 UTC] Database connection successful at 2025-05-18 16:46:39
+[18-May-2025 16:46:39 UTC] Connecting to database...
+[18-May-2025 16:46:39 UTC] Fetched participants count: 5
+[18-May-2025 16:46:39 UTC] Sample participant data: {"id":29,"ticket_id":45,"user_id":8,"trip_id":8,"name":"nhatanh8i","email":"nguyennhatanhnnacm@gmail.com","phone":"0813052062","message":null,"created_at":"2025-05-18 22:16:23","username":"nhatanh8i","fullname":"Nguy\u1ec5n Nh\u1eadt Anh","trip_name":"L\u00e0nh t\u00ecnh th\u01b0\u01a1ng","is_cancelled":0,"refund_status":null}
+[18-May-2025 16:46:39 UTC] === END get_participants.php ===
+[18-May-2025 16:46:40 UTC] Database connection successful at 2025-05-18 16:46:40
+[18-May-2025 16:46:41 UTC] Database connection successful at 2025-05-18 16:46:41
+[18-May-2025 16:46:41 UTC] Database connection successful at 2025-05-18 16:46:41
+[18-May-2025 16:47:29 UTC] Database connection successful at 2025-05-18 16:47:29
+[18-May-2025 16:47:30 UTC] Database connection successful at 2025-05-18 16:47:30
+[18-May-2025 16:47:30 UTC] Database connection successful at 2025-05-18 16:47:30
+[18-May-2025 16:47:30 UTC] Database connection successful at 2025-05-18 16:47:30
+[18-May-2025 16:47:30 UTC] Connecting to database...
+[18-May-2025 16:47:30 UTC] Fetched participants count: 5
+[18-May-2025 16:47:30 UTC] Sample participant data: {"id":29,"ticket_id":45,"user_id":8,"trip_id":8,"name":"nhatanh8i","email":"nguyennhatanhnnacm@gmail.com","phone":"0813052062","message":null,"created_at":"2025-05-18 22:16:23","username":"nhatanh8i","fullname":"Nguy\u1ec5n Nh\u1eadt Anh","trip_name":"L\u00e0nh t\u00ecnh th\u01b0\u01a1ng","is_cancelled":0,"refund_status":null}
+[18-May-2025 16:47:30 UTC] === END get_participants.php ===
+[18-May-2025 16:48:55 UTC] Database connection successful at 2025-05-18 16:48:55
+[18-May-2025 16:48:55 UTC] Database connection successful at 2025-05-18 16:48:55
+[18-May-2025 16:48:57 UTC] Database connection successful at 2025-05-18 16:48:57
+[18-May-2025 16:48:59 UTC] Database connection successful at 2025-05-18 16:48:59
+[18-May-2025 16:48:59 UTC] Database connection successful at 2025-05-18 16:48:59
+[18-May-2025 16:48:59 UTC] Database connection successful at 2025-05-18 16:48:59
+[18-May-2025 16:48:59 UTC] Connecting to database...
+[18-May-2025 16:48:59 UTC] Fetched participants count: 5
+[18-May-2025 16:48:59 UTC] Sample participant data: {"id":29,"ticket_id":45,"user_id":8,"trip_id":8,"name":"nhatanh8i","email":"nguyennhatanhnnacm@gmail.com","phone":"0813052062","message":null,"created_at":"2025-05-18 22:16:23","username":"nhatanh8i","fullname":"Nguy\u1ec5n Nh\u1eadt Anh","trip_name":"L\u00e0nh t\u00ecnh th\u01b0\u01a1ng","is_cancelled":0,"refund_status":null}
+[18-May-2025 16:48:59 UTC] === END get_participants.php ===
+[18-May-2025 16:49:00 UTC] Database connection successful at 2025-05-18 16:49:00
+[18-May-2025 16:49:02 UTC] Database connection successful at 2025-05-18 16:49:02
+[18-May-2025 16:49:02 UTC] Database connection successful at 2025-05-18 16:49:02
+[18-May-2025 16:49:03 UTC] Database connection successful at 2025-05-18 16:49:03
+[18-May-2025 16:49:04 UTC] Database connection successful at 2025-05-18 16:49:04
+[18-May-2025 16:49:04 UTC] Database connection successful at 2025-05-18 16:49:04
+[18-May-2025 16:49:04 UTC] Database connection successful at 2025-05-18 16:49:04
+[18-May-2025 16:49:04 UTC] Connecting to database...
+[18-May-2025 16:49:04 UTC] Fetched participants count: 5
+[18-May-2025 16:49:04 UTC] Sample participant data: {"id":29,"ticket_id":45,"user_id":8,"trip_id":8,"name":"nhatanh8i","email":"nguyennhatanhnnacm@gmail.com","phone":"0813052062","message":null,"created_at":"2025-05-18 22:16:23","username":"nhatanh8i","fullname":"Nguy\u1ec5n Nh\u1eadt Anh","trip_name":"L\u00e0nh t\u00ecnh th\u01b0\u01a1ng","is_cancelled":0,"refund_status":null}
+[18-May-2025 16:49:04 UTC] === END get_participants.php ===
+[18-May-2025 16:49:05 UTC] Database connection successful at 2025-05-18 16:49:05
+[18-May-2025 16:49:06 UTC] Database connection successful at 2025-05-18 16:49:06
+[18-May-2025 16:49:06 UTC] Database connection successful at 2025-05-18 16:49:06
+[18-May-2025 16:49:07 UTC] Database connection successful at 2025-05-18 16:49:07
+[18-May-2025 16:49:09 UTC] Database connection successful at 2025-05-18 16:49:09
+[18-May-2025 16:49:09 UTC] Database connection successful at 2025-05-18 16:49:09
+[18-May-2025 16:49:15 UTC] Database connection successful at 2025-05-18 16:49:15
+[18-May-2025 16:49:16 UTC] Database connection successful at 2025-05-18 16:49:16
+[18-May-2025 16:49:16 UTC] Database connection successful at 2025-05-18 16:49:16
+[18-May-2025 16:49:16 UTC] Connecting to database...
+[18-May-2025 16:49:16 UTC] Fetched participants count: 5
+[18-May-2025 16:49:16 UTC] Sample participant data: {"id":29,"ticket_id":45,"user_id":8,"trip_id":8,"name":"nhatanh8i","email":"nguyennhatanhnnacm@gmail.com","phone":"0813052062","message":null,"created_at":"2025-05-18 22:16:23","username":"nhatanh8i","fullname":"Nguy\u1ec5n Nh\u1eadt Anh","trip_name":"L\u00e0nh t\u00ecnh th\u01b0\u01a1ng","is_cancelled":0,"refund_status":null}
+[18-May-2025 16:49:16 UTC] === END get_participants.php ===
+[18-May-2025 16:49:16 UTC] Database connection successful at 2025-05-18 16:49:16
+[19-May-2025 06:29:07 UTC] Database connection successful at 2025-05-19 06:29:07
+[19-May-2025 06:29:07 UTC] Database connection successful at 2025-05-19 06:29:07
+[19-May-2025 06:29:10 UTC] Database connection successful at 2025-05-19 06:29:10
+[19-May-2025 06:29:11 UTC] Database connection successful at 2025-05-19 06:29:11
+[19-May-2025 06:29:11 UTC] Database connection successful at 2025-05-19 06:29:11
+[19-May-2025 06:29:11 UTC] Database connection successful at 2025-05-19 06:29:11
+[19-May-2025 06:29:11 UTC] Connecting to database...
+[19-May-2025 06:29:11 UTC] Fetched participants count: 5
+[19-May-2025 06:29:11 UTC] Sample participant data: {"id":29,"ticket_id":45,"user_id":8,"trip_id":8,"name":"nhatanh8i","email":"nguyennhatanhnnacm@gmail.com","phone":"0813052062","message":null,"created_at":"2025-05-18 22:16:23","username":"nhatanh8i","fullname":"Nguy\u1ec5n Nh\u1eadt Anh","trip_name":"L\u00e0nh t\u00ecnh th\u01b0\u01a1ng","is_cancelled":0,"refund_status":null}
+[19-May-2025 06:29:11 UTC] === END get_participants.php ===
+[19-May-2025 06:29:13 UTC] Database connection successful at 2025-05-19 06:29:13
+[19-May-2025 06:29:13 UTC] Database connection successful at 2025-05-19 06:29:13
+[19-May-2025 06:29:13 UTC] Database connection successful at 2025-05-19 06:29:13
+[19-May-2025 06:29:14 UTC] Database connection successful at 2025-05-19 06:29:14
+[19-May-2025 06:29:15 UTC] Database connection successful at 2025-05-19 06:29:15
+[19-May-2025 06:29:15 UTC] Database connection successful at 2025-05-19 06:29:15
+[19-May-2025 06:29:18 UTC] Database connection successful at 2025-05-19 06:29:18
+[19-May-2025 06:29:19 UTC] Database connection successful at 2025-05-19 06:29:19
+[19-May-2025 06:29:21 UTC] Database connection successful at 2025-05-19 06:29:21
+[19-May-2025 06:29:22 UTC] Database connection successful at 2025-05-19 06:29:22
+[19-May-2025 06:32:14 UTC] Database connection successful at 2025-05-19 06:32:14
+[19-May-2025 06:32:14 UTC] Database connection successful at 2025-05-19 06:32:14
+[19-May-2025 06:49:39 UTC] Database connection successful at 2025-05-19 06:49:39
+[19-May-2025 06:49:39 UTC] Database connection successful at 2025-05-19 06:49:39
+[19-May-2025 06:49:47 UTC] Database connection successful at 2025-05-19 06:49:47
+[19-May-2025 06:49:49 UTC] Database connection successful at 2025-05-19 06:49:49
+[19-May-2025 06:49:51 UTC] Database connection successful at 2025-05-19 06:49:51
+[19-May-2025 06:49:53 UTC] Database connection successful at 2025-05-19 06:49:53
+[19-May-2025 06:50:00 UTC] Database connection successful at 2025-05-19 06:50:00
+[19-May-2025 06:50:01 UTC] Database connection successful at 2025-05-19 06:50:01
+[19-May-2025 06:50:01 UTC] Database connection successful at 2025-05-19 06:50:01
+[19-May-2025 06:50:02 UTC] Database connection successful at 2025-05-19 06:50:02
+[19-May-2025 06:50:03 UTC] Database connection successful at 2025-05-19 06:50:03
+[19-May-2025 06:50:03 UTC] Database connection successful at 2025-05-19 06:50:03
+[19-May-2025 06:50:06 UTC] Database connection successful at 2025-05-19 06:50:06
+[19-May-2025 06:50:06 UTC] Database connection successful at 2025-05-19 06:50:06
+[19-May-2025 06:50:06 UTC] Database connection successful at 2025-05-19 06:50:06
+[19-May-2025 06:50:06 UTC] Connecting to database...
+[19-May-2025 06:50:06 UTC] Fetched participants count: 7
+[19-May-2025 06:50:06 UTC] Sample participant data: {"id":31,"ticket_id":47,"user_id":11,"trip_id":8,"name":"nhatanh7i","email":"nhatanhnacm@gmail.com","phone":"0813052061","message":null,"created_at":"2025-05-19 13:49:28","username":"nhatanh7i","fullname":"Nguy\u1ec5n Nh\u1eadt Anh","trip_name":"L\u00e0nh t\u00ecnh th\u01b0\u01a1ng","is_cancelled":0,"refund_status":null}
+[19-May-2025 06:50:06 UTC] === END get_participants.php ===
+[19-May-2025 06:50:07 UTC] Database connection successful at 2025-05-19 06:50:07
+[19-May-2025 06:50:07 UTC] Database connection successful at 2025-05-19 06:50:07
+[19-May-2025 06:56:29 UTC] Database connection successful at 2025-05-19 06:56:29
+[19-May-2025 06:56:29 UTC] Database connection successful at 2025-05-19 06:56:29
+[19-May-2025 06:56:30 UTC] Database connection successful at 2025-05-19 06:56:30
+[19-May-2025 06:56:31 UTC] Database connection successful at 2025-05-19 06:56:31
+[19-May-2025 06:56:31 UTC] Database connection successful at 2025-05-19 06:56:31
+[19-May-2025 06:56:31 UTC] Database connection successful at 2025-05-19 06:56:31
+[19-May-2025 06:56:31 UTC] Connecting to database...
+[19-May-2025 06:56:31 UTC] Fetched participants count: 7
+[19-May-2025 06:56:31 UTC] Sample participant data: {"id":31,"ticket_id":47,"user_id":11,"trip_id":8,"name":"nhatanh7i","email":"nhatanhnacm@gmail.com","phone":"0813052061","message":null,"created_at":"2025-05-19 13:49:28","username":"nhatanh7i","fullname":"Nguy\u1ec5n Nh\u1eadt Anh","trip_name":"L\u00e0nh t\u00ecnh th\u01b0\u01a1ng","is_cancelled":0,"refund_status":null}
+[19-May-2025 06:56:31 UTC] === END get_participants.php ===
+[19-May-2025 06:56:32 UTC] Database connection successful at 2025-05-19 06:56:32
+[19-May-2025 06:56:32 UTC] Database connection successful at 2025-05-19 06:56:32
+[19-May-2025 06:56:36 UTC] Database connection successful at 2025-05-19 06:56:36
+[19-May-2025 06:56:37 UTC] Database connection successful at 2025-05-19 06:56:37
+[19-May-2025 06:56:39 UTC] Database connection successful at 2025-05-19 06:56:39
+[19-May-2025 06:56:40 UTC] Database connection successful at 2025-05-19 06:56:40
+[19-May-2025 06:56:41 UTC] Database connection successful at 2025-05-19 06:56:41
+[19-May-2025 06:56:43 UTC] Database connection successful at 2025-05-19 06:56:43
+[19-May-2025 06:56:45 UTC] Database connection successful at 2025-05-19 06:56:45
+[19-May-2025 06:56:46 UTC] Database connection successful at 2025-05-19 06:56:46
+[19-May-2025 06:56:46 UTC] Database connection successful at 2025-05-19 06:56:46
+[19-May-2025 06:56:46 UTC] Connecting to database...
+[19-May-2025 06:56:46 UTC] Fetched participants count: 7
+[19-May-2025 06:56:46 UTC] Sample participant data: {"id":31,"ticket_id":47,"user_id":11,"trip_id":8,"name":"nhatanh7i","email":"nhatanhnacm@gmail.com","phone":"0813052061","message":null,"created_at":"2025-05-19 13:49:28","username":"nhatanh7i","fullname":"Nguy\u1ec5n Nh\u1eadt Anh","trip_name":"L\u00e0nh t\u00ecnh th\u01b0\u01a1ng","is_cancelled":0,"refund_status":null}
+[19-May-2025 06:56:46 UTC] === END get_participants.php ===
+[19-May-2025 06:56:46 UTC] Database connection successful at 2025-05-19 06:56:46
+[19-May-2025 06:56:47 UTC] Database connection successful at 2025-05-19 06:56:47
+[19-May-2025 06:56:47 UTC] Database connection successful at 2025-05-19 06:56:47
+[19-May-2025 06:56:47 UTC] Database connection successful at 2025-05-19 06:56:47
+[19-May-2025 06:56:48 UTC] Database connection successful at 2025-05-19 06:56:48
+[19-May-2025 06:56:49 UTC] Database connection successful at 2025-05-19 06:56:49
+[19-May-2025 06:56:49 UTC] Database connection successful at 2025-05-19 06:56:49
+[19-May-2025 06:56:49 UTC] Database connection successful at 2025-05-19 06:56:49
+[19-May-2025 06:56:49 UTC] Connecting to database...
+[19-May-2025 06:56:49 UTC] Fetched participants count: 7
+[19-May-2025 06:56:49 UTC] Sample participant data: {"id":31,"ticket_id":47,"user_id":11,"trip_id":8,"name":"nhatanh7i","email":"nhatanhnacm@gmail.com","phone":"0813052061","message":null,"created_at":"2025-05-19 13:49:28","username":"nhatanh7i","fullname":"Nguy\u1ec5n Nh\u1eadt Anh","trip_name":"L\u00e0nh t\u00ecnh th\u01b0\u01a1ng","is_cancelled":0,"refund_status":null}
+[19-May-2025 06:56:49 UTC] === END get_participants.php ===
+[19-May-2025 06:56:49 UTC] Database connection successful at 2025-05-19 06:56:49
+[19-May-2025 06:56:50 UTC] Database connection successful at 2025-05-19 06:56:50
+[19-May-2025 06:56:50 UTC] Database connection successful at 2025-05-19 06:56:50
+[19-May-2025 06:56:50 UTC] Database connection successful at 2025-05-19 06:56:50
+[19-May-2025 06:56:51 UTC] Database connection successful at 2025-05-19 06:56:51
+[19-May-2025 06:56:51 UTC] Database connection successful at 2025-05-19 06:56:51
+[19-May-2025 06:56:51 UTC] Database connection successful at 2025-05-19 06:56:51
+[19-May-2025 06:56:51 UTC] Connecting to database...
+[19-May-2025 06:56:51 UTC] Fetched participants count: 7
+[19-May-2025 06:56:51 UTC] Sample participant data: {"id":31,"ticket_id":47,"user_id":11,"trip_id":8,"name":"nhatanh7i","email":"nhatanhnacm@gmail.com","phone":"0813052061","message":null,"created_at":"2025-05-19 13:49:28","username":"nhatanh7i","fullname":"Nguy\u1ec5n Nh\u1eadt Anh","trip_name":"L\u00e0nh t\u00ecnh th\u01b0\u01a1ng","is_cancelled":0,"refund_status":null}
+[19-May-2025 06:56:51 UTC] === END get_participants.php ===
+[19-May-2025 06:56:51 UTC] Database connection successful at 2025-05-19 06:56:51
+[19-May-2025 06:56:51 UTC] Database connection successful at 2025-05-19 06:56:51
+[19-May-2025 06:56:52 UTC] Database connection successful at 2025-05-19 06:56:52
+[19-May-2025 06:56:52 UTC] Database connection successful at 2025-05-19 06:56:52
+[19-May-2025 06:56:52 UTC] Database connection successful at 2025-05-19 06:56:52
+[19-May-2025 06:56:52 UTC] Connecting to database...
+[19-May-2025 06:56:52 UTC] Fetched participants count: 7
+[19-May-2025 06:56:52 UTC] Sample participant data: {"id":31,"ticket_id":47,"user_id":11,"trip_id":8,"name":"nhatanh7i","email":"nhatanhnacm@gmail.com","phone":"0813052061","message":null,"created_at":"2025-05-19 13:49:28","username":"nhatanh7i","fullname":"Nguy\u1ec5n Nh\u1eadt Anh","trip_name":"L\u00e0nh t\u00ecnh th\u01b0\u01a1ng","is_cancelled":0,"refund_status":null}
+[19-May-2025 06:56:52 UTC] === END get_participants.php ===
+[19-May-2025 06:56:52 UTC] Database connection successful at 2025-05-19 06:56:52
+[19-May-2025 06:56:53 UTC] Database connection successful at 2025-05-19 06:56:53
+[19-May-2025 06:56:53 UTC] Database connection successful at 2025-05-19 06:56:53
+[19-May-2025 06:56:53 UTC] Database connection successful at 2025-05-19 06:56:53
+[19-May-2025 11:05:31 UTC] Database connection successful at 2025-05-19 11:05:31
+[19-May-2025 11:05:31 UTC] Database connection successful at 2025-05-19 11:05:31
+[19-May-2025 11:05:32 UTC] Database connection successful at 2025-05-19 11:05:32
+[19-May-2025 11:05:33 UTC] Database connection successful at 2025-05-19 11:05:33
+[19-May-2025 11:05:33 UTC] Database connection successful at 2025-05-19 11:05:33
+[19-May-2025 11:05:33 UTC] Database connection successful at 2025-05-19 11:05:33
+[19-May-2025 11:05:33 UTC] Connecting to database...
+[19-May-2025 11:05:33 UTC] Fetched participants count: 7
+[19-May-2025 11:05:33 UTC] Sample participant data: {"id":31,"ticket_id":47,"user_id":11,"trip_id":8,"name":"nhatanh7i","email":"nhatanhnacm@gmail.com","phone":"0813052061","message":null,"created_at":"2025-05-19 13:49:28","username":"nhatanh7i","fullname":"Nguy\u1ec5n Nh\u1eadt Anh","trip_name":"L\u00e0nh t\u00ecnh th\u01b0\u01a1ng","is_cancelled":0,"refund_status":null}
+[19-May-2025 11:05:33 UTC] === END get_participants.php ===
+[19-May-2025 11:05:34 UTC] Database connection successful at 2025-05-19 11:05:34
+[19-May-2025 11:05:45 UTC] Database connection successful at 2025-05-19 11:05:45
+[19-May-2025 11:05:46 UTC] Database connection successful at 2025-05-19 11:05:46
+[19-May-2025 11:05:46 UTC] Database connection successful at 2025-05-19 11:05:46
+[19-May-2025 11:05:46 UTC] Connecting to database...
+[19-May-2025 11:05:46 UTC] Fetched participants count: 7
+[19-May-2025 11:05:46 UTC] Sample participant data: {"id":31,"ticket_id":47,"user_id":11,"trip_id":8,"name":"nhatanh7i","email":"nhatanhnacm@gmail.com","phone":"0813052061","message":null,"created_at":"2025-05-19 13:49:28","username":"nhatanh7i","fullname":"Nguy\u1ec5n Nh\u1eadt Anh","trip_name":"L\u00e0nh t\u00ecnh th\u01b0\u01a1ng","is_cancelled":0,"refund_status":null}
+[19-May-2025 11:05:46 UTC] === END get_participants.php ===
+[19-May-2025 11:05:47 UTC] Database connection successful at 2025-05-19 11:05:47
+[19-May-2025 11:05:48 UTC] Database connection successful at 2025-05-19 11:05:48
+[19-May-2025 11:05:48 UTC] Database connection successful at 2025-05-19 11:05:48
+[19-May-2025 11:05:48 UTC] Database connection successful at 2025-05-19 11:05:48
+[19-May-2025 11:05:48 UTC] Connecting to database...
+[19-May-2025 11:05:48 UTC] Fetched participants count: 7
+[19-May-2025 11:05:48 UTC] Sample participant data: {"id":31,"ticket_id":47,"user_id":11,"trip_id":8,"name":"nhatanh7i","email":"nhatanhnacm@gmail.com","phone":"0813052061","message":null,"created_at":"2025-05-19 13:49:28","username":"nhatanh7i","fullname":"Nguy\u1ec5n Nh\u1eadt Anh","trip_name":"L\u00e0nh t\u00ecnh th\u01b0\u01a1ng","is_cancelled":0,"refund_status":null}
+[19-May-2025 11:05:48 UTC] === END get_participants.php ===
+[19-May-2025 11:05:48 UTC] Database connection successful at 2025-05-19 11:05:48
+[19-May-2025 11:05:49 UTC] Database connection successful at 2025-05-19 11:05:49
+[19-May-2025 11:05:49 UTC] Database connection successful at 2025-05-19 11:05:49
+[19-May-2025 11:05:49 UTC] Database connection successful at 2025-05-19 11:05:49
+[19-May-2025 11:05:49 UTC] Connecting to database...
+[19-May-2025 11:05:49 UTC] Fetched participants count: 7
+[19-May-2025 11:05:49 UTC] Sample participant data: {"id":31,"ticket_id":47,"user_id":11,"trip_id":8,"name":"nhatanh7i","email":"nhatanhnacm@gmail.com","phone":"0813052061","message":null,"created_at":"2025-05-19 13:49:28","username":"nhatanh7i","fullname":"Nguy\u1ec5n Nh\u1eadt Anh","trip_name":"L\u00e0nh t\u00ecnh th\u01b0\u01a1ng","is_cancelled":0,"refund_status":null}
+[19-May-2025 11:05:49 UTC] === END get_participants.php ===
+[19-May-2025 11:05:49 UTC] Database connection successful at 2025-05-19 11:05:49
+[19-May-2025 11:06:08 UTC] Database connection successful at 2025-05-19 11:06:08
+[19-May-2025 11:06:08 UTC] Database connection successful at 2025-05-19 11:06:08
+[19-May-2025 11:06:09 UTC] Database connection successful at 2025-05-19 11:06:09
+[19-May-2025 11:06:09 UTC] Database connection successful at 2025-05-19 11:06:09
+[19-May-2025 11:06:09 UTC] Database connection successful at 2025-05-19 11:06:09
+[19-May-2025 11:06:09 UTC] Database connection successful at 2025-05-19 11:06:09
+[19-May-2025 11:06:09 UTC] Connecting to database...
+[19-May-2025 11:06:09 UTC] Fetched participants count: 7
+[19-May-2025 11:06:09 UTC] Sample participant data: {"id":31,"ticket_id":47,"user_id":11,"trip_id":8,"name":"nhatanh7i","email":"nhatanhnacm@gmail.com","phone":"0813052061","message":null,"created_at":"2025-05-19 13:49:28","username":"nhatanh7i","fullname":"Nguy\u1ec5n Nh\u1eadt Anh","trip_name":"L\u00e0nh t\u00ecnh th\u01b0\u01a1ng","is_cancelled":0,"refund_status":null}
+[19-May-2025 11:06:09 UTC] === END get_participants.php ===
+[19-May-2025 11:06:09 UTC] Database connection successful at 2025-05-19 11:06:09
+[19-May-2025 11:06:09 UTC] Database connection successful at 2025-05-19 11:06:09
+[19-May-2025 11:06:11 UTC] Database connection successful at 2025-05-19 11:06:11
+[19-May-2025 11:06:17 UTC] Database connection successful at 2025-05-19 11:06:17
+[19-May-2025 11:06:17 UTC] Database connection successful at 2025-05-19 11:06:17
+[19-May-2025 11:06:18 UTC] Database connection successful at 2025-05-19 11:06:18
+[19-May-2025 11:06:20 UTC] Database connection successful at 2025-05-19 11:06:20
+[19-May-2025 11:06:20 UTC] Database connection successful at 2025-05-19 11:06:20
+[19-May-2025 11:06:20 UTC] Connecting to database...
+[19-May-2025 11:06:20 UTC] Fetched participants count: 7
+[19-May-2025 11:06:20 UTC] Sample participant data: {"id":31,"ticket_id":47,"user_id":11,"trip_id":8,"name":"nhatanh7i","email":"nhatanhnacm@gmail.com","phone":"0813052061","message":null,"created_at":"2025-05-19 13:49:28","username":"nhatanh7i","fullname":"Nguy\u1ec5n Nh\u1eadt Anh","trip_name":"L\u00e0nh t\u00ecnh th\u01b0\u01a1ng","is_cancelled":0,"refund_status":null}
+[19-May-2025 11:06:20 UTC] === END get_participants.php ===
+[19-May-2025 11:06:20 UTC] Database connection successful at 2025-05-19 11:06:20
+[19-May-2025 11:06:20 UTC] Database connection successful at 2025-05-19 11:06:20
+[19-May-2025 11:06:21 UTC] Database connection successful at 2025-05-19 11:06:21
+[19-May-2025 11:06:21 UTC] Database connection successful at 2025-05-19 11:06:21
+[19-May-2025 11:06:21 UTC] Database connection successful at 2025-05-19 11:06:21
+[19-May-2025 11:06:21 UTC] Connecting to database...
+[19-May-2025 11:06:21 UTC] Fetched participants count: 7
+[19-May-2025 11:06:21 UTC] Sample participant data: {"id":31,"ticket_id":47,"user_id":11,"trip_id":8,"name":"nhatanh7i","email":"nhatanhnacm@gmail.com","phone":"0813052061","message":null,"created_at":"2025-05-19 13:49:28","username":"nhatanh7i","fullname":"Nguy\u1ec5n Nh\u1eadt Anh","trip_name":"L\u00e0nh t\u00ecnh th\u01b0\u01a1ng","is_cancelled":0,"refund_status":null}
+[19-May-2025 11:06:21 UTC] === END get_participants.php ===
+[19-May-2025 11:06:21 UTC] Database connection successful at 2025-05-19 11:06:21
+[19-May-2025 11:06:22 UTC] Database connection successful at 2025-05-19 11:06:22
+[19-May-2025 11:06:22 UTC] Database connection successful at 2025-05-19 11:06:22
+[19-May-2025 11:06:22 UTC] Connecting to database...
+[19-May-2025 11:06:22 UTC] Fetched participants count: 7
+[19-May-2025 11:06:22 UTC] Sample participant data: {"id":31,"ticket_id":47,"user_id":11,"trip_id":8,"name":"nhatanh7i","email":"nhatanhnacm@gmail.com","phone":"0813052061","message":null,"created_at":"2025-05-19 13:49:28","username":"nhatanh7i","fullname":"Nguy\u1ec5n Nh\u1eadt Anh","trip_name":"L\u00e0nh t\u00ecnh th\u01b0\u01a1ng","is_cancelled":0,"refund_status":null}
+[19-May-2025 11:06:22 UTC] === END get_participants.php ===
+[19-May-2025 11:06:22 UTC] Database connection successful at 2025-05-19 11:06:22
+[19-May-2025 11:06:22 UTC] Database connection successful at 2025-05-19 11:06:22
+[19-May-2025 11:06:23 UTC] Database connection successful at 2025-05-19 11:06:23
+[19-May-2025 11:06:23 UTC] Database connection successful at 2025-05-19 11:06:23
+[19-May-2025 11:06:23 UTC] Connecting to database...
+[19-May-2025 11:06:23 UTC] Fetched participants count: 7
+[19-May-2025 11:06:23 UTC] Sample participant data: {"id":31,"ticket_id":47,"user_id":11,"trip_id":8,"name":"nhatanh7i","email":"nhatanhnacm@gmail.com","phone":"0813052061","message":null,"created_at":"2025-05-19 13:49:28","username":"nhatanh7i","fullname":"Nguy\u1ec5n Nh\u1eadt Anh","trip_name":"L\u00e0nh t\u00ecnh th\u01b0\u01a1ng","is_cancelled":0,"refund_status":null}
+[19-May-2025 11:06:23 UTC] === END get_participants.php ===
+[19-May-2025 11:06:23 UTC] Database connection successful at 2025-05-19 11:06:23
+[19-May-2025 11:06:24 UTC] Database connection successful at 2025-05-19 11:06:24
+[19-May-2025 11:06:27 UTC] Database connection successful at 2025-05-19 11:06:27
+[19-May-2025 11:06:27 UTC] Database connection successful at 2025-05-19 11:06:27
+[19-May-2025 11:06:27 UTC] Connecting to database...
+[19-May-2025 11:06:27 UTC] Fetched participants count: 7
+[19-May-2025 11:06:27 UTC] Sample participant data: {"id":31,"ticket_id":47,"user_id":11,"trip_id":8,"name":"nhatanh7i","email":"nhatanhnacm@gmail.com","phone":"0813052061","message":null,"created_at":"2025-05-19 13:49:28","username":"nhatanh7i","fullname":"Nguy\u1ec5n Nh\u1eadt Anh","trip_name":"L\u00e0nh t\u00ecnh th\u01b0\u01a1ng","is_cancelled":0,"refund_status":null}
+[19-May-2025 11:06:27 UTC] === END get_participants.php ===
+[19-May-2025 11:06:27 UTC] Database connection successful at 2025-05-19 11:06:27
+[20-May-2025 12:59:43 UTC] Database connection successful at 2025-05-20 12:59:43
+[20-May-2025 12:59:43 UTC] Database connection successful at 2025-05-20 12:59:43
+[20-May-2025 12:59:44 UTC] Database connection successful at 2025-05-20 12:59:44
+[20-May-2025 12:59:45 UTC] Database connection successful at 2025-05-20 12:59:45
+[20-May-2025 12:59:45 UTC] Database connection successful at 2025-05-20 12:59:45
+[20-May-2025 12:59:45 UTC] Database connection successful at 2025-05-20 12:59:45
+[20-May-2025 12:59:45 UTC] Connecting to database...
+[20-May-2025 12:59:45 UTC] Fetched participants count: 7
+[20-May-2025 12:59:45 UTC] Sample participant data: {"id":31,"ticket_id":47,"user_id":11,"trip_id":8,"name":"nhatanh7i","email":"nhatanhnacm@gmail.com","phone":"0813052061","message":null,"created_at":"2025-05-19 13:49:28","username":"nhatanh7i","fullname":"Nguy\u1ec5n Nh\u1eadt Anh","trip_name":"L\u00e0nh t\u00ecnh th\u01b0\u01a1ng","is_cancelled":0,"refund_status":null}
+[20-May-2025 12:59:45 UTC] === END get_participants.php ===
+[20-May-2025 12:59:45 UTC] Database connection successful at 2025-05-20 12:59:45
+[20-May-2025 12:59:45 UTC] Database connection successful at 2025-05-20 12:59:45
+[20-May-2025 12:59:46 UTC] Database connection successful at 2025-05-20 12:59:46
+[20-May-2025 12:59:46 UTC] Database connection successful at 2025-05-20 12:59:46
+[20-May-2025 12:59:46 UTC] Database connection successful at 2025-05-20 12:59:46
+[20-May-2025 12:59:46 UTC] Connecting to database...
+[20-May-2025 12:59:46 UTC] Fetched participants count: 7
+[20-May-2025 12:59:46 UTC] Sample participant data: {"id":31,"ticket_id":47,"user_id":11,"trip_id":8,"name":"nhatanh7i","email":"nhatanhnacm@gmail.com","phone":"0813052061","message":null,"created_at":"2025-05-19 13:49:28","username":"nhatanh7i","fullname":"Nguy\u1ec5n Nh\u1eadt Anh","trip_name":"L\u00e0nh t\u00ecnh th\u01b0\u01a1ng","is_cancelled":0,"refund_status":null}
+[20-May-2025 12:59:46 UTC] === END get_participants.php ===
+[20-May-2025 12:59:47 UTC] Database connection successful at 2025-05-20 12:59:47
+[20-May-2025 12:59:48 UTC] Database connection successful at 2025-05-20 12:59:48
+[20-May-2025 12:59:48 UTC] Database connection successful at 2025-05-20 12:59:48
+[20-May-2025 12:59:49 UTC] Database connection successful at 2025-05-20 12:59:49
+[20-May-2025 12:59:50 UTC] Database connection successful at 2025-05-20 12:59:50
+[20-May-2025 12:59:50 UTC] Database connection successful at 2025-05-20 12:59:50
+[20-May-2025 12:59:53 UTC] Database connection successful at 2025-05-20 12:59:53
+[20-May-2025 12:59:54 UTC] Database connection successful at 2025-05-20 12:59:54
+[20-May-2025 12:59:54 UTC] Database connection successful at 2025-05-20 12:59:54
+[20-May-2025 12:59:54 UTC] Database connection successful at 2025-05-20 12:59:54
+[20-May-2025 12:59:54 UTC] Connecting to database...
+[20-May-2025 12:59:54 UTC] Fetched participants count: 7
+[20-May-2025 12:59:54 UTC] Sample participant data: {"id":31,"ticket_id":47,"user_id":11,"trip_id":8,"name":"nhatanh7i","email":"nhatanhnacm@gmail.com","phone":"0813052061","message":null,"created_at":"2025-05-19 13:49:28","username":"nhatanh7i","fullname":"Nguy\u1ec5n Nh\u1eadt Anh","trip_name":"L\u00e0nh t\u00ecnh th\u01b0\u01a1ng","is_cancelled":0,"refund_status":null}
+[20-May-2025 12:59:54 UTC] === END get_participants.php ===
+[25-May-2025 05:47:03 UTC] Database connection successful at 2025-05-25 05:47:03
+[25-May-2025 05:47:03 UTC] Database connection successful at 2025-05-25 05:47:03
+[25-May-2025 05:47:24 UTC] Database connection successful at 2025-05-25 05:47:24
+[25-May-2025 05:47:24 UTC] Database connection successful at 2025-05-25 05:47:24
+[25-May-2025 05:47:54 UTC] Database connection successful at 2025-05-25 05:47:54
+[25-May-2025 05:47:54 UTC] Database connection successful at 2025-05-25 05:47:54
+[25-May-2025 05:47:55 UTC] Database connection successful at 2025-05-25 05:47:55
+[25-May-2025 05:47:55 UTC] Database connection successful at 2025-05-25 05:47:55
+[25-May-2025 05:47:55 UTC] Database connection successful at 2025-05-25 05:47:55
+[25-May-2025 05:47:55 UTC] Database connection successful at 2025-05-25 05:47:55
+[25-May-2025 05:47:55 UTC] Connecting to database...
+[25-May-2025 05:47:55 UTC] Fetched participants count: 7
+[25-May-2025 05:47:55 UTC] Sample participant data: {"id":31,"ticket_id":47,"user_id":11,"trip_id":8,"name":"nhatanh7i","email":"nhatanhnacm@gmail.com","phone":"0813052061","message":null,"created_at":"2025-05-19 13:49:28","username":"nhatanh7i","fullname":"Nguy\u1ec5n Nh\u1eadt Anh","trip_name":"L\u00e0nh t\u00ecnh th\u01b0\u01a1ng","is_cancelled":0,"refund_status":null}
+[25-May-2025 05:47:55 UTC] === END get_participants.php ===
+[25-May-2025 05:47:56 UTC] Database connection successful at 2025-05-25 05:47:56
+[25-May-2025 05:47:56 UTC] Database connection successful at 2025-05-25 05:47:56
+[25-May-2025 05:48:01 UTC] Database connection successful at 2025-05-25 05:48:01
+[25-May-2025 05:48:04 UTC] Database connection successful at 2025-05-25 05:48:04
+[25-May-2025 05:48:05 UTC] Database connection successful at 2025-05-25 05:48:05
+[25-May-2025 07:01:57 UTC] Database connection successful at 2025-05-25 07:01:57
+[25-May-2025 07:01:57 UTC] Database connection successful at 2025-05-25 07:01:57
+[25-May-2025 07:01:59 UTC] Database connection successful at 2025-05-25 07:01:59
+[25-May-2025 07:02:00 UTC] Database connection successful at 2025-05-25 07:02:00
+[25-May-2025 07:02:00 UTC] Database connection successful at 2025-05-25 07:02:00
+[25-May-2025 07:02:00 UTC] Database connection successful at 2025-05-25 07:02:00
+[25-May-2025 07:02:00 UTC] Connecting to database...
+[25-May-2025 07:02:00 UTC] Fetched participants count: 10
+[25-May-2025 07:02:00 UTC] Sample participant data: {"id":34,"ticket_id":50,"user_id":8,"trip_id":5,"name":"nhatanh8i","email":"nguyennhatanhnnacm@gmail.com","phone":"0813052062","message":null,"created_at":"2025-05-25 14:00:59","username":"nhatanh8i","fullname":"Nguy\u1ec5n Nh\u1eadt Anh","trip_name":"Duy\u1ec7t binh (50 n\u0103m ho\u00e0n to\u00e0n gi\u1ea3i ph\u00f3ng \u0111\u1ea5t n\u01b0\u1edbc)","is_cancelled":0,"refund_status":null}
+[25-May-2025 07:02:00 UTC] === END get_participants.php ===
+[25-May-2025 07:02:00 UTC] Database connection successful at 2025-05-25 07:02:00
+[25-May-2025 07:02:00 UTC] Database connection successful at 2025-05-25 07:02:00
+[25-May-2025 07:02:04 UTC] Database connection successful at 2025-05-25 07:02:04
+[25-May-2025 07:02:05 UTC] Database connection successful at 2025-05-25 07:02:05
+[25-May-2025 07:02:06 UTC] Database connection successful at 2025-05-25 07:02:06
+[25-May-2025 07:02:07 UTC] Database connection successful at 2025-05-25 07:02:07
+[25-May-2025 07:02:09 UTC] Database connection successful at 2025-05-25 07:02:09
+[25-May-2025 07:02:11 UTC] Database connection successful at 2025-05-25 07:02:11
+[25-May-2025 07:02:11 UTC] Database connection successful at 2025-05-25 07:02:11
+[25-May-2025 07:02:15 UTC] Database connection successful at 2025-05-25 07:02:15
+[25-May-2025 07:02:15 UTC] Database connection successful at 2025-05-25 07:02:15
+[25-May-2025 07:02:15 UTC] Database connection successful at 2025-05-25 07:02:15
+[25-May-2025 07:02:15 UTC] Connecting to database...
+[25-May-2025 07:02:15 UTC] Fetched participants count: 10
+[25-May-2025 07:02:15 UTC] Sample participant data: {"id":34,"ticket_id":50,"user_id":8,"trip_id":5,"name":"nhatanh8i","email":"nguyennhatanhnnacm@gmail.com","phone":"0813052062","message":null,"created_at":"2025-05-25 14:00:59","username":"nhatanh8i","fullname":"Nguy\u1ec5n Nh\u1eadt Anh","trip_name":"Duy\u1ec7t binh (50 n\u0103m ho\u00e0n to\u00e0n gi\u1ea3i ph\u00f3ng \u0111\u1ea5t n\u01b0\u1edbc)","is_cancelled":0,"refund_status":null}
+[25-May-2025 07:02:15 UTC] === END get_participants.php ===
+[25-May-2025 07:02:18 UTC] Database connection successful at 2025-05-25 07:02:18
+[25-May-2025 07:02:18 UTC] Fetching participant with ID: 34
+[25-May-2025 07:02:18 UTC] Participant found: {"id":34,"ticket_id":50,"user_id":8,"trip_id":5,"name":"nhatanh8i","email":"nguyennhatanhnnacm@gmail.com","phone":"0813052062","message":null,"created_at":"2025-05-25 14:00:59","username":"nhatanh8i","fullname":"Nguy\u1ec5n Nh\u1eadt Anh","trip_name":"Duy\u1ec7t binh (50 n\u0103m ho\u00e0n to\u00e0n gi\u1ea3i ph\u00f3ng \u0111\u1ea5t n\u01b0\u1edbc)","is_cancelled":0,"refund_status":null}
+[25-May-2025 07:02:18 UTC] === END get_participant.php ===
+[25-May-2025 07:02:21 UTC] Database connection successful at 2025-05-25 07:02:21
+[25-May-2025 07:02:21 UTC] Fetching participant with ID: 34
+[25-May-2025 07:02:21 UTC] Participant found: {"id":34,"ticket_id":50,"user_id":8,"trip_id":5,"name":"nhatanh8i","email":"nguyennhatanhnnacm@gmail.com","phone":"0813052062","message":null,"created_at":"2025-05-25 14:00:59","username":"nhatanh8i","fullname":"Nguy\u1ec5n Nh\u1eadt Anh","trip_name":"Duy\u1ec7t binh (50 n\u0103m ho\u00e0n to\u00e0n gi\u1ea3i ph\u00f3ng \u0111\u1ea5t n\u01b0\u1edbc)","is_cancelled":0,"refund_status":null}
+[25-May-2025 07:02:21 UTC] === END get_participant.php ===
+[25-May-2025 07:02:24 UTC] Database connection successful at 2025-05-25 07:02:24
+[25-May-2025 07:02:25 UTC] Database connection successful at 2025-05-25 07:02:25
+[25-May-2025 07:02:25 UTC] Database connection successful at 2025-05-25 07:02:25
+[25-May-2025 07:02:26 UTC] Database connection successful at 2025-05-25 07:02:26
+[25-May-2025 07:02:27 UTC] Database connection successful at 2025-05-25 07:02:27
+[25-May-2025 07:02:27 UTC] Database connection successful at 2025-05-25 07:02:27
+[25-May-2025 07:02:27 UTC] Database connection successful at 2025-05-25 07:02:27
+[25-May-2025 07:02:27 UTC] Connecting to database...
+[25-May-2025 07:02:27 UTC] Fetched participants count: 10
+[25-May-2025 07:02:27 UTC] Sample participant data: {"id":34,"ticket_id":50,"user_id":8,"trip_id":5,"name":"nhatanh8i","email":"nguyennhatanhnnacm@gmail.com","phone":"0813052062","message":null,"created_at":"2025-05-25 14:00:59","username":"nhatanh8i","fullname":"Nguy\u1ec5n Nh\u1eadt Anh","trip_name":"Duy\u1ec7t binh (50 n\u0103m ho\u00e0n to\u00e0n gi\u1ea3i ph\u00f3ng \u0111\u1ea5t n\u01b0\u1edbc)","is_cancelled":0,"refund_status":null}
+[25-May-2025 07:02:27 UTC] === END get_participants.php ===
+[25-May-2025 07:02:27 UTC] Database connection successful at 2025-05-25 07:02:27
+[25-May-2025 07:02:27 UTC] Database connection successful at 2025-05-25 07:02:27
+[25-May-2025 07:03:33 UTC] Database connection successful at 2025-05-25 07:03:33
+[25-May-2025 07:03:33 UTC] Database connection successful at 2025-05-25 07:03:33
+[25-May-2025 07:03:34 UTC] Database connection successful at 2025-05-25 07:03:34
+[25-May-2025 07:03:35 UTC] Database connection successful at 2025-05-25 07:03:35
+[25-May-2025 07:03:35 UTC] Database connection successful at 2025-05-25 07:03:35
+[25-May-2025 07:03:35 UTC] Database connection successful at 2025-05-25 07:03:35
+[25-May-2025 07:03:35 UTC] Connecting to database...
+[25-May-2025 07:03:35 UTC] Fetched participants count: 10
+[25-May-2025 07:03:35 UTC] Sample participant data: {"id":34,"ticket_id":50,"user_id":8,"trip_id":5,"name":"nhatanh8i","email":"nguyennhatanhnnacm@gmail.com","phone":"0813052062","message":null,"created_at":"2025-05-25 14:00:59","username":"nhatanh8i","fullname":"Nguy\u1ec5n Nh\u1eadt Anh","trip_name":"Duy\u1ec7t binh (50 n\u0103m ho\u00e0n to\u00e0n gi\u1ea3i ph\u00f3ng \u0111\u1ea5t n\u01b0\u1edbc)","is_cancelled":0,"refund_status":null}
+[25-May-2025 07:03:35 UTC] === END get_participants.php ===
+[25-May-2025 07:03:42 UTC] Database connection successful at 2025-05-25 07:03:42
+[25-May-2025 07:03:42 UTC] Database connection successful at 2025-05-25 07:03:42
+[25-May-2025 07:03:42 UTC] Database connection successful at 2025-05-25 07:03:42
+[25-May-2025 07:03:43 UTC] Database connection successful at 2025-05-25 07:03:43
+[25-May-2025 07:03:46 UTC] Database connection successful at 2025-05-25 07:03:46
+[25-May-2025 07:03:46 UTC] Database connection successful at 2025-05-25 07:03:46
+[25-May-2025 07:03:46 UTC] Database connection successful at 2025-05-25 07:03:46
+[25-May-2025 07:03:46 UTC] Connecting to database...
+[25-May-2025 07:03:46 UTC] Fetched participants count: 10
+[25-May-2025 07:03:46 UTC] Sample participant data: {"id":34,"ticket_id":50,"user_id":8,"trip_id":5,"name":"nhatanh8i","email":"nguyennhatanhnnacm@gmail.com","phone":"0813052062","message":null,"created_at":"2025-05-25 14:00:59","username":"nhatanh8i","fullname":"Nguy\u1ec5n Nh\u1eadt Anh","trip_name":"Duy\u1ec7t binh (50 n\u0103m ho\u00e0n to\u00e0n gi\u1ea3i ph\u00f3ng \u0111\u1ea5t n\u01b0\u1edbc)","is_cancelled":0,"refund_status":null}
+[25-May-2025 07:03:46 UTC] === END get_participants.php ===
+[25-May-2025 07:03:47 UTC] Database connection successful at 2025-05-25 07:03:47
+[25-May-2025 07:03:47 UTC] Database connection successful at 2025-05-25 07:03:47
+[25-May-2025 07:03:48 UTC] Database connection successful at 2025-05-25 07:03:48
+[25-May-2025 07:03:48 UTC] Database connection successful at 2025-05-25 07:03:48
+[25-May-2025 07:03:48 UTC] Database connection successful at 2025-05-25 07:03:48
+[25-May-2025 07:04:11 UTC] Database connection successful at 2025-05-25 07:04:11
+[25-May-2025 07:04:11 UTC] Database connection successful at 2025-05-25 07:04:11
+[25-May-2025 07:04:11 UTC] Database connection successful at 2025-05-25 07:04:11
+[25-May-2025 07:04:11 UTC] Connecting to database...
+[25-May-2025 07:04:11 UTC] Fetched participants count: 10
+[25-May-2025 07:04:11 UTC] Sample participant data: {"id":34,"ticket_id":50,"user_id":8,"trip_id":5,"name":"nhatanh8i","email":"nguyennhatanhnnacm@gmail.com","phone":"0813052062","message":null,"created_at":"2025-05-25 14:00:59","username":"nhatanh8i","fullname":"Nguy\u1ec5n Nh\u1eadt Anh","trip_name":"Duy\u1ec7t binh (50 n\u0103m ho\u00e0n to\u00e0n gi\u1ea3i ph\u00f3ng \u0111\u1ea5t n\u01b0\u1edbc)","is_cancelled":0,"refund_status":null}
+[25-May-2025 07:04:11 UTC] === END get_participants.php ===
+[25-May-2025 07:04:11 UTC] Database connection successful at 2025-05-25 07:04:11
+[25-May-2025 07:06:41 UTC] Database connection successful at 2025-05-25 07:06:41
+[25-May-2025 07:06:41 UTC] Database connection successful at 2025-05-25 07:06:41
+[25-May-2025 07:06:42 UTC] Database connection successful at 2025-05-25 07:06:42
+[25-May-2025 07:06:43 UTC] Database connection successful at 2025-05-25 07:06:43
+[25-May-2025 07:06:43 UTC] Database connection successful at 2025-05-25 07:06:43
+[25-May-2025 07:06:43 UTC] Database connection successful at 2025-05-25 07:06:43
+[25-May-2025 07:06:43 UTC] Connecting to database...
+[25-May-2025 07:06:43 UTC] Fetched participants count: 10
+[25-May-2025 07:06:43 UTC] Sample participant data: {"id":34,"ticket_id":50,"user_id":8,"trip_id":5,"name":"nhatanh8i","email":"nguyennhatanhnnacm@gmail.com","phone":"0813052062","message":null,"created_at":"2025-05-25 14:00:59","username":"nhatanh8i","fullname":"Nguy\u1ec5n Nh\u1eadt Anh","trip_name":"Duy\u1ec7t binh (50 n\u0103m ho\u00e0n to\u00e0n gi\u1ea3i ph\u00f3ng \u0111\u1ea5t n\u01b0\u1edbc)","is_cancelled":0,"refund_status":null}
+[25-May-2025 07:06:43 UTC] === END get_participants.php ===
+[25-May-2025 07:07:03 UTC] Database connection successful at 2025-05-25 07:07:03
+[25-May-2025 07:07:04 UTC] Database connection successful at 2025-05-25 07:07:04
+[25-May-2025 07:07:04 UTC] Database connection successful at 2025-05-25 07:07:04
+[25-May-2025 07:07:05 UTC] Database connection successful at 2025-05-25 07:07:05
+[25-May-2025 07:07:05 UTC] Connecting to database...
+[25-May-2025 07:07:05 UTC] Fetched participants count: 10
+[25-May-2025 07:07:05 UTC] Sample participant data: {"id":34,"ticket_id":50,"user_id":8,"trip_id":5,"name":"nhatanh8i","email":"nguyennhatanhnnacm@gmail.com","phone":"0813052062","message":null,"created_at":"2025-05-25 14:00:59","username":"nhatanh8i","fullname":"Nguy\u1ec5n Nh\u1eadt Anh","trip_name":"Duy\u1ec7t binh (50 n\u0103m ho\u00e0n to\u00e0n gi\u1ea3i ph\u00f3ng \u0111\u1ea5t n\u01b0\u1edbc)","is_cancelled":0,"refund_status":null}
+[25-May-2025 07:07:05 UTC] === END get_participants.php ===
+[25-May-2025 07:07:05 UTC] Database connection successful at 2025-05-25 07:07:05
+[25-May-2025 07:07:05 UTC] Database connection successful at 2025-05-25 07:07:05
+[25-May-2025 07:07:05 UTC] Database connection successful at 2025-05-25 07:07:05
+[25-May-2025 07:07:06 UTC] Database connection successful at 2025-05-25 07:07:06
+[25-May-2025 07:07:06 UTC] Database connection successful at 2025-05-25 07:07:06
+[25-May-2025 07:07:06 UTC] Database connection successful at 2025-05-25 07:07:06
+[25-May-2025 07:07:06 UTC] Connecting to database...
+[25-May-2025 07:07:06 UTC] Fetched participants count: 10
+[25-May-2025 07:07:06 UTC] Sample participant data: {"id":34,"ticket_id":50,"user_id":8,"trip_id":5,"name":"nhatanh8i","email":"nguyennhatanhnnacm@gmail.com","phone":"0813052062","message":null,"created_at":"2025-05-25 14:00:59","username":"nhatanh8i","fullname":"Nguy\u1ec5n Nh\u1eadt Anh","trip_name":"Duy\u1ec7t binh (50 n\u0103m ho\u00e0n to\u00e0n gi\u1ea3i ph\u00f3ng \u0111\u1ea5t n\u01b0\u1edbc)","is_cancelled":0,"refund_status":null}
+[25-May-2025 07:07:06 UTC] === END get_participants.php ===
+[25-May-2025 07:07:15 UTC] Database connection successful at 2025-05-25 07:07:15
+[25-May-2025 07:07:17 UTC] Database connection successful at 2025-05-25 07:07:17
+[25-May-2025 07:07:17 UTC] Database connection successful at 2025-05-25 07:07:17
+[25-May-2025 07:07:17 UTC] Database connection successful at 2025-05-25 07:07:17
+[25-May-2025 07:07:17 UTC] Connecting to database...
+[25-May-2025 07:07:17 UTC] Fetched participants count: 10
+[25-May-2025 07:07:17 UTC] Sample participant data: {"id":34,"ticket_id":50,"user_id":8,"trip_id":5,"name":"nhatanh8i","email":"nguyennhatanhnnacm@gmail.com","phone":"0813052062","message":null,"created_at":"2025-05-25 14:00:59","username":"nhatanh8i","fullname":"Nguy\u1ec5n Nh\u1eadt Anh","trip_name":"Duy\u1ec7t binh (50 n\u0103m ho\u00e0n to\u00e0n gi\u1ea3i ph\u00f3ng \u0111\u1ea5t n\u01b0\u1edbc)","is_cancelled":0,"refund_status":null}
+[25-May-2025 07:07:17 UTC] === END get_participants.php ===
+[25-May-2025 07:07:17 UTC] Database connection successful at 2025-05-25 07:07:17
+[25-May-2025 07:07:17 UTC] Database connection successful at 2025-05-25 07:07:17
+[25-May-2025 07:07:43 UTC] Database connection successful at 2025-05-25 07:07:43
+[25-May-2025 07:07:45 UTC] Database connection successful at 2025-05-25 07:07:45
+[25-May-2025 07:07:45 UTC] Database connection successful at 2025-05-25 07:07:45
+[25-May-2025 07:07:45 UTC] Database connection successful at 2025-05-25 07:07:45
+[25-May-2025 07:07:45 UTC] Connecting to database...
+[25-May-2025 07:07:45 UTC] Fetched participants count: 10
+[25-May-2025 07:07:45 UTC] Sample participant data: {"id":34,"ticket_id":50,"user_id":8,"trip_id":5,"name":"nhatanh8i","email":"nguyennhatanhnnacm@gmail.com","phone":"0813052062","message":null,"created_at":"2025-05-25 14:00:59","username":"nhatanh8i","fullname":"Nguy\u1ec5n Nh\u1eadt Anh","trip_name":"Duy\u1ec7t binh (50 n\u0103m ho\u00e0n to\u00e0n gi\u1ea3i ph\u00f3ng \u0111\u1ea5t n\u01b0\u1edbc)","is_cancelled":0,"refund_status":null}
+[25-May-2025 07:07:45 UTC] === END get_participants.php ===
+[25-May-2025 07:07:46 UTC] Database connection successful at 2025-05-25 07:07:46
+[25-May-2025 07:07:46 UTC] Database connection successful at 2025-05-25 07:07:46
+[25-May-2025 07:07:49 UTC] Database connection successful at 2025-05-25 07:07:49
+[25-May-2025 07:07:50 UTC] Database connection successful at 2025-05-25 07:07:50
+[25-May-2025 07:07:50 UTC] Database connection successful at 2025-05-25 07:07:50
+[25-May-2025 07:07:50 UTC] Database connection successful at 2025-05-25 07:07:50
+[25-May-2025 07:07:50 UTC] Connecting to database...
+[25-May-2025 07:07:50 UTC] Fetched participants count: 10
+[25-May-2025 07:07:50 UTC] Sample participant data: {"id":34,"ticket_id":50,"user_id":8,"trip_id":5,"name":"nhatanh8i","email":"nguyennhatanhnnacm@gmail.com","phone":"0813052062","message":null,"created_at":"2025-05-25 14:00:59","username":"nhatanh8i","fullname":"Nguy\u1ec5n Nh\u1eadt Anh","trip_name":"Duy\u1ec7t binh (50 n\u0103m ho\u00e0n to\u00e0n gi\u1ea3i ph\u00f3ng \u0111\u1ea5t n\u01b0\u1edbc)","is_cancelled":0,"refund_status":null}
+[25-May-2025 07:07:50 UTC] === END get_participants.php ===
+[25-May-2025 07:07:50 UTC] Database connection successful at 2025-05-25 07:07:50
+[25-May-2025 07:07:50 UTC] Database connection successful at 2025-05-25 07:07:50
+[25-May-2025 07:07:51 UTC] Database connection successful at 2025-05-25 07:07:51
+[25-May-2025 07:07:51 UTC] Database connection successful at 2025-05-25 07:07:51
+[25-May-2025 07:07:51 UTC] Database connection successful at 2025-05-25 07:07:51
+[25-May-2025 07:07:51 UTC] Database connection successful at 2025-05-25 07:07:51
+[25-May-2025 07:07:51 UTC] Database connection successful at 2025-05-25 07:07:51
+[25-May-2025 07:07:51 UTC] Database connection successful at 2025-05-25 07:07:51
+[25-May-2025 07:07:51 UTC] Database connection successful at 2025-05-25 07:07:51
+[25-May-2025 07:07:51 UTC] Database connection successful at 2025-05-25 07:07:51
+[25-May-2025 07:07:51 UTC] Database connection successful at 2025-05-25 07:07:51
+[25-May-2025 07:07:51 UTC] Database connection successful at 2025-05-25 07:07:51
+[25-May-2025 07:07:52 UTC] Database connection successful at 2025-05-25 07:07:52
+[25-May-2025 07:07:52 UTC] Database connection successful at 2025-05-25 07:07:52
+[25-May-2025 07:07:52 UTC] Database connection successful at 2025-05-25 07:07:52
+[25-May-2025 07:07:52 UTC] Database connection successful at 2025-05-25 07:07:52
+[25-May-2025 07:07:52 UTC] Database connection successful at 2025-05-25 07:07:52
+[25-May-2025 07:07:53 UTC] Database connection successful at 2025-05-25 07:07:53
+[25-May-2025 07:07:53 UTC] Database connection successful at 2025-05-25 07:07:53
+[25-May-2025 07:07:53 UTC] Database connection successful at 2025-05-25 07:07:53
+[25-May-2025 07:07:53 UTC] Database connection successful at 2025-05-25 07:07:53
+[25-May-2025 07:07:53 UTC] Connecting to database...
+[25-May-2025 07:07:53 UTC] Fetched participants count: 10
+[25-May-2025 07:07:53 UTC] Sample participant data: {"id":34,"ticket_id":50,"user_id":8,"trip_id":5,"name":"nhatanh8i","email":"nguyennhatanhnnacm@gmail.com","phone":"0813052062","message":null,"created_at":"2025-05-25 14:00:59","username":"nhatanh8i","fullname":"Nguy\u1ec5n Nh\u1eadt Anh","trip_name":"Duy\u1ec7t binh (50 n\u0103m ho\u00e0n to\u00e0n gi\u1ea3i ph\u00f3ng \u0111\u1ea5t n\u01b0\u1edbc)","is_cancelled":0,"refund_status":null}
+[25-May-2025 07:07:53 UTC] === END get_participants.php ===
+[25-May-2025 07:07:54 UTC] Database connection successful at 2025-05-25 07:07:54
+[25-May-2025 07:07:54 UTC] Database connection successful at 2025-05-25 07:07:54
+[25-May-2025 07:07:54 UTC] Connecting to database...
+[25-May-2025 07:07:54 UTC] Fetched participants count: 10
+[25-May-2025 07:07:54 UTC] Sample participant data: {"id":34,"ticket_id":50,"user_id":8,"trip_id":5,"name":"nhatanh8i","email":"nguyennhatanhnnacm@gmail.com","phone":"0813052062","message":null,"created_at":"2025-05-25 14:00:59","username":"nhatanh8i","fullname":"Nguy\u1ec5n Nh\u1eadt Anh","trip_name":"Duy\u1ec7t binh (50 n\u0103m ho\u00e0n to\u00e0n gi\u1ea3i ph\u00f3ng \u0111\u1ea5t n\u01b0\u1edbc)","is_cancelled":0,"refund_status":null}
+[25-May-2025 07:07:54 UTC] === END get_participants.php ===
+[25-May-2025 07:07:54 UTC] Database connection successful at 2025-05-25 07:07:54
+[25-May-2025 07:07:54 UTC] Database connection successful at 2025-05-25 07:07:54
+[25-May-2025 07:07:54 UTC] Database connection successful at 2025-05-25 07:07:54
+[25-May-2025 07:07:54 UTC] Connecting to database...
+[25-May-2025 07:07:54 UTC] Fetched participants count: 10
+[25-May-2025 07:07:54 UTC] Sample participant data: {"id":34,"ticket_id":50,"user_id":8,"trip_id":5,"name":"nhatanh8i","email":"nguyennhatanhnnacm@gmail.com","phone":"0813052062","message":null,"created_at":"2025-05-25 14:00:59","username":"nhatanh8i","fullname":"Nguy\u1ec5n Nh\u1eadt Anh","trip_name":"Duy\u1ec7t binh (50 n\u0103m ho\u00e0n to\u00e0n gi\u1ea3i ph\u00f3ng \u0111\u1ea5t n\u01b0\u1edbc)","is_cancelled":0,"refund_status":null}
+[25-May-2025 07:07:54 UTC] === END get_participants.php ===
+[25-May-2025 07:07:54 UTC] Database connection successful at 2025-05-25 07:07:54
+[25-May-2025 07:07:55 UTC] Database connection successful at 2025-05-25 07:07:55
+[25-May-2025 07:07:55 UTC] Database connection successful at 2025-05-25 07:07:55
+[25-May-2025 07:07:55 UTC] Database connection successful at 2025-05-25 07:07:55
+[25-May-2025 07:07:55 UTC] Connecting to database...
+[25-May-2025 07:07:55 UTC] Fetched participants count: 10
+[25-May-2025 07:07:55 UTC] Sample participant data: {"id":34,"ticket_id":50,"user_id":8,"trip_id":5,"name":"nhatanh8i","email":"nguyennhatanhnnacm@gmail.com","phone":"0813052062","message":null,"created_at":"2025-05-25 14:00:59","username":"nhatanh8i","fullname":"Nguy\u1ec5n Nh\u1eadt Anh","trip_name":"Duy\u1ec7t binh (50 n\u0103m ho\u00e0n to\u00e0n gi\u1ea3i ph\u00f3ng \u0111\u1ea5t n\u01b0\u1edbc)","is_cancelled":0,"refund_status":null}
+[25-May-2025 07:07:55 UTC] === END get_participants.php ===
+[25-May-2025 07:07:55 UTC] Database connection successful at 2025-05-25 07:07:55
+[25-May-2025 07:07:55 UTC] Database connection successful at 2025-05-25 07:07:55
+[25-May-2025 07:07:55 UTC] Database connection successful at 2025-05-25 07:07:55
+[25-May-2025 07:07:55 UTC] Connecting to database...
+[25-May-2025 07:07:55 UTC] Fetched participants count: 10
+[25-May-2025 07:07:55 UTC] Sample participant data: {"id":34,"ticket_id":50,"user_id":8,"trip_id":5,"name":"nhatanh8i","email":"nguyennhatanhnnacm@gmail.com","phone":"0813052062","message":null,"created_at":"2025-05-25 14:00:59","username":"nhatanh8i","fullname":"Nguy\u1ec5n Nh\u1eadt Anh","trip_name":"Duy\u1ec7t binh (50 n\u0103m ho\u00e0n to\u00e0n gi\u1ea3i ph\u00f3ng \u0111\u1ea5t n\u01b0\u1edbc)","is_cancelled":0,"refund_status":null}
+[25-May-2025 07:07:55 UTC] === END get_participants.php ===
+[25-May-2025 07:07:55 UTC] Database connection successful at 2025-05-25 07:07:55
+[25-May-2025 07:07:56 UTC] Database connection successful at 2025-05-25 07:07:56
+[25-May-2025 07:07:56 UTC] Database connection successful at 2025-05-25 07:07:56
+[25-May-2025 07:07:56 UTC] Database connection successful at 2025-05-25 07:07:56
+[25-May-2025 07:07:56 UTC] Database connection successful at 2025-05-25 07:07:56
+[25-May-2025 07:07:56 UTC] Database connection successful at 2025-05-25 07:07:56
+[25-May-2025 07:07:56 UTC] Connecting to database...
+[25-May-2025 07:07:56 UTC] Fetched participants count: 10
+[25-May-2025 07:07:56 UTC] Sample participant data: {"id":34,"ticket_id":50,"user_id":8,"trip_id":5,"name":"nhatanh8i","email":"nguyennhatanhnnacm@gmail.com","phone":"0813052062","message":null,"created_at":"2025-05-25 14:00:59","username":"nhatanh8i","fullname":"Nguy\u1ec5n Nh\u1eadt Anh","trip_name":"Duy\u1ec7t binh (50 n\u0103m ho\u00e0n to\u00e0n gi\u1ea3i ph\u00f3ng \u0111\u1ea5t n\u01b0\u1edbc)","is_cancelled":0,"refund_status":null}
+[25-May-2025 07:07:56 UTC] === END get_participants.php ===
+[25-May-2025 07:07:56 UTC] Database connection successful at 2025-05-25 07:07:56
+[25-May-2025 07:07:58 UTC] Database connection successful at 2025-05-25 07:07:58
+[25-May-2025 07:07:58 UTC] Database connection successful at 2025-05-25 07:07:58
+[25-May-2025 07:07:58 UTC] Database connection successful at 2025-05-25 07:07:58
+[25-May-2025 07:07:58 UTC] Database connection successful at 2025-05-25 07:07:58
+[25-May-2025 07:07:58 UTC] Database connection successful at 2025-05-25 07:07:58
+[25-May-2025 07:07:58 UTC] Database connection successful at 2025-05-25 07:07:58
+[25-May-2025 07:07:58 UTC] Connecting to database...
+[25-May-2025 07:07:58 UTC] Fetched participants count: 10
+[25-May-2025 07:07:58 UTC] Sample participant data: {"id":34,"ticket_id":50,"user_id":8,"trip_id":5,"name":"nhatanh8i","email":"nguyennhatanhnnacm@gmail.com","phone":"0813052062","message":null,"created_at":"2025-05-25 14:00:59","username":"nhatanh8i","fullname":"Nguy\u1ec5n Nh\u1eadt Anh","trip_name":"Duy\u1ec7t binh (50 n\u0103m ho\u00e0n to\u00e0n gi\u1ea3i ph\u00f3ng \u0111\u1ea5t n\u01b0\u1edbc)","is_cancelled":0,"refund_status":null}
+[25-May-2025 07:07:58 UTC] === END get_participants.php ===
+[25-May-2025 07:07:59 UTC] Database connection successful at 2025-05-25 07:07:59
+[25-May-2025 07:07:59 UTC] Database connection successful at 2025-05-25 07:07:59
+[25-May-2025 07:08:01 UTC] Database connection successful at 2025-05-25 07:08:01
+[25-May-2025 07:08:02 UTC] Database connection successful at 2025-05-25 07:08:02
+[25-May-2025 07:08:02 UTC] Database connection successful at 2025-05-25 07:08:02
+[25-May-2025 07:08:02 UTC] Database connection successful at 2025-05-25 07:08:02
+[25-May-2025 07:08:02 UTC] Connecting to database...
+[25-May-2025 07:08:02 UTC] Fetched participants count: 10
+[25-May-2025 07:08:02 UTC] Sample participant data: {"id":34,"ticket_id":50,"user_id":8,"trip_id":5,"name":"nhatanh8i","email":"nguyennhatanhnnacm@gmail.com","phone":"0813052062","message":null,"created_at":"2025-05-25 14:00:59","username":"nhatanh8i","fullname":"Nguy\u1ec5n Nh\u1eadt Anh","trip_name":"Duy\u1ec7t binh (50 n\u0103m ho\u00e0n to\u00e0n gi\u1ea3i ph\u00f3ng \u0111\u1ea5t n\u01b0\u1edbc)","is_cancelled":0,"refund_status":null}
+[25-May-2025 07:08:02 UTC] === END get_participants.php ===
+[25-May-2025 07:08:02 UTC] Database connection successful at 2025-05-25 07:08:02
+[25-May-2025 07:08:03 UTC] Database connection successful at 2025-05-25 07:08:03
+[25-May-2025 07:08:03 UTC] Database connection successful at 2025-05-25 07:08:03
+[25-May-2025 07:08:06 UTC] Database connection successful at 2025-05-25 07:08:06
+[25-May-2025 07:08:06 UTC] Database connection successful at 2025-05-25 07:08:06
+[25-May-2025 07:08:08 UTC] Database connection successful at 2025-05-25 07:08:08
+[25-May-2025 07:08:08 UTC] Database connection successful at 2025-05-25 07:08:08
+[25-May-2025 07:08:09 UTC] Database connection successful at 2025-05-25 07:08:09
+[25-May-2025 07:08:11 UTC] Database connection successful at 2025-05-25 07:08:11
+[25-May-2025 07:08:11 UTC] Database connection successful at 2025-05-25 07:08:11
+[25-May-2025 07:08:11 UTC] Database connection successful at 2025-05-25 07:08:11
+[25-May-2025 07:08:11 UTC] Connecting to database...
+[25-May-2025 07:08:11 UTC] Fetched participants count: 10
+[25-May-2025 07:08:11 UTC] Sample participant data: {"id":34,"ticket_id":50,"user_id":8,"trip_id":5,"name":"nhatanh8i","email":"nguyennhatanhnnacm@gmail.com","phone":"0813052062","message":null,"created_at":"2025-05-25 14:00:59","username":"nhatanh8i","fullname":"Nguy\u1ec5n Nh\u1eadt Anh","trip_name":"Duy\u1ec7t binh (50 n\u0103m ho\u00e0n to\u00e0n gi\u1ea3i ph\u00f3ng \u0111\u1ea5t n\u01b0\u1edbc)","is_cancelled":0,"refund_status":null}
+[25-May-2025 07:08:11 UTC] === END get_participants.php ===
+[25-May-2025 07:08:28 UTC] Database connection successful at 2025-05-25 07:08:28
+[25-May-2025 07:08:28 UTC] Database connection successful at 2025-05-25 07:08:28
+[29-May-2025 09:52:04 UTC] Database connection successful at 2025-05-29 09:52:04
+[29-May-2025 09:52:04 UTC] Database connection successful at 2025-05-29 09:52:04
+[29-May-2025 09:52:05 UTC] Database connection successful at 2025-05-29 09:52:05
+[29-May-2025 09:52:06 UTC] Database connection successful at 2025-05-29 09:52:06
+[29-May-2025 09:52:06 UTC] Database connection successful at 2025-05-29 09:52:06
+[29-May-2025 09:52:06 UTC] Database connection successful at 2025-05-29 09:52:06
+[29-May-2025 09:52:06 UTC] Connecting to database...
+[29-May-2025 09:52:06 UTC] Fetched participants count: 10
+[29-May-2025 09:52:06 UTC] Sample participant data: {"id":34,"ticket_id":50,"user_id":8,"trip_id":5,"name":"nhatanh8i","email":"nguyennhatanhnnacm@gmail.com","phone":"0813052062","message":null,"created_at":"2025-05-25 14:00:59","username":"nhatanh8i","fullname":"Nguy\u1ec5n Nh\u1eadt Anh","trip_name":"Duy\u1ec7t binh (50 n\u0103m ho\u00e0n to\u00e0n gi\u1ea3i ph\u00f3ng \u0111\u1ea5t n\u01b0\u1edbc)","is_cancelled":0,"refund_status":null}
+[29-May-2025 09:52:06 UTC] === END get_participants.php ===
+[29-May-2025 09:52:06 UTC] Database connection successful at 2025-05-29 09:52:06
+[29-May-2025 09:52:06 UTC] Database connection successful at 2025-05-29 09:52:06
+[29-May-2025 09:52:21 UTC] Database connection successful at 2025-05-29 09:52:21
+[29-May-2025 09:52:22 UTC] Database connection successful at 2025-05-29 09:52:22
+[29-May-2025 09:52:22 UTC] Database connection successful at 2025-05-29 09:52:22
+[29-May-2025 09:52:22 UTC] Database connection successful at 2025-05-29 09:52:22
+[29-May-2025 09:52:22 UTC] Connecting to database...
+[29-May-2025 09:52:22 UTC] Fetched participants count: 10
+[29-May-2025 09:52:22 UTC] Sample participant data: {"id":34,"ticket_id":50,"user_id":8,"trip_id":5,"name":"nhatanh8i","email":"nguyennhatanhnnacm@gmail.com","phone":"0813052062","message":null,"created_at":"2025-05-25 14:00:59","username":"nhatanh8i","fullname":"Nguy\u1ec5n Nh\u1eadt Anh","trip_name":"Duy\u1ec7t binh (50 n\u0103m ho\u00e0n to\u00e0n gi\u1ea3i ph\u00f3ng \u0111\u1ea5t n\u01b0\u1edbc)","is_cancelled":0,"refund_status":null}
+[29-May-2025 09:52:22 UTC] === END get_participants.php ===
+[29-May-2025 09:52:23 UTC] Database connection successful at 2025-05-29 09:52:23
+[29-May-2025 09:52:26 UTC] Database connection successful at 2025-05-29 09:52:26
+[29-May-2025 09:52:27 UTC] Database connection successful at 2025-05-29 09:52:27
+[29-May-2025 09:52:27 UTC] Database connection successful at 2025-05-29 09:52:27
+[29-May-2025 09:52:27 UTC] Connecting to database...
+[29-May-2025 09:52:27 UTC] Fetched participants count: 10
+[29-May-2025 09:52:27 UTC] Sample participant data: {"id":34,"ticket_id":50,"user_id":8,"trip_id":5,"name":"nhatanh8i","email":"nguyennhatanhnnacm@gmail.com","phone":"0813052062","message":null,"created_at":"2025-05-25 14:00:59","username":"nhatanh8i","fullname":"Nguy\u1ec5n Nh\u1eadt Anh","trip_name":"Duy\u1ec7t binh (50 n\u0103m ho\u00e0n to\u00e0n gi\u1ea3i ph\u00f3ng \u0111\u1ea5t n\u01b0\u1edbc)","is_cancelled":0,"refund_status":null}
+[29-May-2025 09:52:27 UTC] === END get_participants.php ===
+[29-May-2025 09:52:27 UTC] Database connection successful at 2025-05-29 09:52:27
+[29-May-2025 09:52:27 UTC] Database connection successful at 2025-05-29 09:52:27
+[29-May-2025 14:21:11 UTC] Database connection successful at 2025-05-29 14:21:11
+[29-May-2025 14:21:11 UTC] Database connection successful at 2025-05-29 14:21:11
+[29-May-2025 14:21:13 UTC] Database connection successful at 2025-05-29 14:21:13
+[29-May-2025 14:21:18 UTC] Database connection successful at 2025-05-29 14:21:18
+[29-May-2025 14:21:18 UTC] Database connection successful at 2025-05-29 14:21:18
+[29-May-2025 14:21:18 UTC] Database connection successful at 2025-05-29 14:21:18
+[29-May-2025 14:21:18 UTC] Connecting to database...
+[29-May-2025 14:21:18 UTC] Fetched participants count: 10
+[29-May-2025 14:21:18 UTC] Sample participant data: {"id":34,"ticket_id":50,"user_id":8,"trip_id":5,"name":"nhatanh8i","email":"nguyennhatanhnnacm@gmail.com","phone":"0813052062","message":null,"created_at":"2025-05-25 14:00:59","username":"nhatanh8i","fullname":"Nguy\u1ec5n Nh\u1eadt Anh","trip_name":"Duy\u1ec7t binh (50 n\u0103m ho\u00e0n to\u00e0n gi\u1ea3i ph\u00f3ng \u0111\u1ea5t n\u01b0\u1edbc)","is_cancelled":0,"refund_status":null}
+[29-May-2025 14:21:18 UTC] === END get_participants.php ===
+[29-May-2025 14:21:20 UTC] Database connection successful at 2025-05-29 14:21:20
+[29-May-2025 14:21:20 UTC] Database connection successful at 2025-05-29 14:21:20
+[29-May-2025 14:21:21 UTC] Database connection successful at 2025-05-29 14:21:21
+[29-May-2025 14:21:21 UTC] Database connection successful at 2025-05-29 14:21:21
+[29-May-2025 14:21:21 UTC] Database connection successful at 2025-05-29 14:21:21
+[29-May-2025 14:21:27 UTC] Database connection successful at 2025-05-29 14:21:27
+[29-May-2025 14:21:27 UTC] Database connection successful at 2025-05-29 14:21:27
+[29-May-2025 14:21:27 UTC] Database connection successful at 2025-05-29 14:21:27
+[29-May-2025 14:21:27 UTC] Connecting to database...
+[29-May-2025 14:21:27 UTC] Fetched participants count: 10
+[29-May-2025 14:21:27 UTC] Sample participant data: {"id":34,"ticket_id":50,"user_id":8,"trip_id":5,"name":"nhatanh8i","email":"nguyennhatanhnnacm@gmail.com","phone":"0813052062","message":null,"created_at":"2025-05-25 14:00:59","username":"nhatanh8i","fullname":"Nguy\u1ec5n Nh\u1eadt Anh","trip_name":"Duy\u1ec7t binh (50 n\u0103m ho\u00e0n to\u00e0n gi\u1ea3i ph\u00f3ng \u0111\u1ea5t n\u01b0\u1edbc)","is_cancelled":0,"refund_status":null}
+[29-May-2025 14:21:27 UTC] === END get_participants.php ===
+[29-May-2025 14:21:27 UTC] Database connection successful at 2025-05-29 14:21:27
+[29-May-2025 14:21:28 UTC] Database connection successful at 2025-05-29 14:21:28
+[29-May-2025 14:21:28 UTC] Database connection successful at 2025-05-29 14:21:28
+[29-May-2025 14:21:28 UTC] Database connection successful at 2025-05-29 14:21:28

@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Create HopeLink Logo</title>
+</head>
+<body>
+    <canvas id="logoCanvas" width="48" height="48"></canvas>
+    <script>
+        const canvas = document.getElementById('logoCanvas');
+        const ctx = canvas.getContext('2d');
+        
+        // Set background color
+        ctx.fillStyle = '#7c3aed';
+        ctx.fillRect(0, 0, 48, 48);
+        
+        // Draw heart shape
+        ctx.fillStyle = '#ffffff';
+        ctx.beginPath();
+        ctx.moveTo(24, 36);
+        ctx.bezierCurveTo(24, 36, 16, 28, 16, 20);
+        ctx.bezierCurveTo(16, 14, 20, 10, 24, 10);
+        ctx.bezierCurveTo(28, 10, 32, 14, 32, 20);
+        ctx.bezierCurveTo(32, 28, 24, 36, 24, 36);
+        ctx.fill();
+        
+        // Draw "H" letter
+        ctx.fillStyle = '#7c3aed';
+        ctx.font = 'bold 24px Arial';
+        ctx.textAlign = 'center';
+        ctx.textBaseline = 'middle';
+        ctx.fillText('H', 24, 24);
+        
+        // Convert to PNG and download
+        const link = document.createElement('a');
+        link.download = 'hopelink-logo.png';
+        link.href = canvas.toDataURL('image/png');
+        link.click();
+    </script>
+</body>
+</html> 

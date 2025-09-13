@@ -1,0 +1,252 @@
+/* Modal styles */
+.update-modal {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    z-index: 1000;
+    overflow-y: auto;
+}
+
+.update-modal .modal-content {
+    background-color: #fff;
+    margin: 2% auto;
+    padding: 0;
+    width: 90%;
+    max-width: 800px;
+    border-radius: 10px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+    position: relative;
+}
+
+.update-modal .modal-header {
+    background-color: #4a90e2;
+    color: white;
+    padding: 15px 20px;
+    border-radius: 10px 10px 0 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.update-modal .modal-header h2 {
+    margin: 0;
+    font-size: 1.5em;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.update-modal .close-btn {
+    background: none;
+    border: none;
+    color: white;
+    font-size: 1.5em;
+    cursor: pointer;
+    padding: 5px;
+}
+
+/* Form styles */
+.update-modal .form-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+    padding: 20px;
+}
+
+.update-modal .form-group {
+    margin-bottom: 15px;
+}
+
+.update-modal .form-group.full-width {
+    grid-column: 1 / -1;
+}
+
+.update-modal .form-group label {
+    display: block;
+    margin-bottom: 8px;
+    color: #333;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.update-modal .form-group input[type="text"],
+.update-modal .form-group input[type="date"],
+.update-modal .form-group input[type="time"],
+.update-modal .form-group select,
+.update-modal .form-group textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    font-size: 14px;
+    transition: border-color 0.3s;
+}
+
+.update-modal .form-group textarea {
+    min-height: 120px;
+    resize: vertical;
+}
+
+.update-modal .form-group input:focus,
+.update-modal .form-group select:focus,
+.update-modal .form-group textarea:focus {
+    border-color: #4a90e2;
+    outline: none;
+    box-shadow: 0 0 0 2px rgba(74, 144, 226, 0.2);
+}
+
+/* Image upload styles */
+.update-modal .image-upload-container {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.update-modal .image-upload-group {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+
+.update-modal .upload-buttons {
+    display: flex;
+    gap: 10px;
+}
+
+.update-modal .image-preview-container {
+    position: relative;
+    width: 100%;
+    height: 250px;
+    /* Tăng chiều cao từ 200px lên 250px để hình ảnh lớn hơn */
+    border: 2px dashed #ddd;
+    border-radius: 5px;
+    overflow: hidden;
+    background-color: #f8f9fa;
+}
+
+.update-modal .preview-image {
+    width: 100%;
+    height: 100%;
+    min-width: 100%;
+    /* Đảm bảo hình ảnh không bị thu nhỏ quá mức */
+    min-height: 100%;
+    object-fit: cover;
+    /* Lấp đầy khung */
+    object-position: center;
+    /* Căn giữa hình ảnh */
+    display: none;
+}
+
+.update-modal .preview-placeholder {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: #999;
+    background-color: #f8f9fa;
+    z-index: 1;
+    /* Đảm bảo placeholder nằm dưới hình ảnh */
+}
+
+.update-modal .preview-placeholder i {
+    font-size: 2em;
+    margin-bottom: 10px;
+}
+
+/* Button styles */
+.update-modal .form-buttons {
+    padding: 20px;
+    background-color: #f8f9fa;
+    border-top: 1px solid #ddd;
+    display: flex;
+    justify-content: flex-end;
+    gap: 10px;
+    border-radius: 0 0 10px 10px;
+}
+
+.update-modal .btn {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    transition: all 0.3s;
+}
+
+.update-modal .btn-primary {
+    background-color: #4a90e2;
+    color: white;
+}
+
+.update-modal .btn-primary:hover {
+    background-color: #357abd;
+}
+
+.update-modal .btn-danger {
+    background-color: #dc3545;
+    color: white;
+}
+
+.update-modal .btn-danger:hover {
+    background-color: #c82333;
+}
+
+.update-modal .btn-secondary {
+    background-color: #6c757d;
+    color: white;
+}
+
+.update-modal .btn-secondary:hover {
+    background-color: #5a6268;
+}
+
+/* Alert styles */
+.update-modal .alert {
+    margin: 20px;
+    padding: 15px;
+    border-radius: 5px;
+    display: none;
+}
+
+.update-modal .alert-success {
+    background-color: #d4edda;
+    color: #155724;
+    border: 1px solid #c3e6cb;
+}
+
+.update-modal .alert-error {
+    background-color: #f8d7da;
+    color: #721c24;
+    border: 1px solid #f5c6cb;
+}
+
+/* Responsive styles */
+@media (max-width: 768px) {
+    .update-modal .form-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .update-modal .modal-content {
+        width: 95%;
+        margin: 5% auto;
+    }
+
+    .update-modal .image-preview-container {
+        height: 200px;
+        /* Tăng từ 150px lên 200px trên mobile */
+    }
+}
